@@ -1,0 +1,1047 @@
+#
+# x=[12, 212, 121, 21, 212, 12]
+# x.sort()
+# print(x)
+#
+#
+# x=-23
+# print(abs(x));
+#
+# print(pow(12,2))
+#
+# from math import *
+# print(sqrt(25))
+#
+# print(ceil(2.5))
+#
+# name=input("enter your name:")
+# print("your name " +  name)
+#
+# is_male=False
+# is_tall=True
+#
+# ifandels
+# if is_male and is_tall:
+#     print("you are a  tall male ")
+#
+# elif is_tall and not(is_male):
+#     print("you are sexy")
+# else:
+#     print("you are not a male and not tall")
+#
+#
+# # function
+# def max_num(num1, num2, num3):
+#         if num1>=num2 and num1>=num2 :
+#             return num1
+#         elif num2>=num1 and num2>=num3:
+#             return  num2
+#         else:
+#             return num3
+#
+# print(max_num(23,33,5))
+#
+# # Calculator
+# num1=float(input("enter your first Number: "))
+# op=input("enter your Operator: ")
+# num2=float(input("enter your second number"))
+#
+# if op=="+":
+#     print(num1+num2)
+# elif op=="-":
+#     print(num1-num2)
+# elif op=="/":
+#     print(num1/num2)
+# elif op=="*":
+#     print(num1*num2)
+# else:
+#     print("invalid Operator")
+#
+#
+# adj=['big','tasty','small']
+# name=['apple','banana','Pineapple']
+# for x in adj:
+#     for y in name:
+#         print(x,y)
+#
+#
+# print(9<10)
+#
+# i=5
+# while i>=1 :
+#  print(i)
+#  i+=1
+#
+# import sys
+# print(sys.getrecursionlimit())
+# print(sys.setrecursionlimit(20000))
+#
+# def recursion():
+#  print("Gaju Ahmed")
+#  recursion()
+#
+#
+# for i in range(6):
+#  for j in range(i):
+#   print("*", end="")
+#  print()
+# for i in range(6):
+#  for j in range(6-i):
+#   print("*", end="")
+#  print()
+#
+# secret_input="Doll"
+# giving_value=""
+# while giving_value !=secret_input:
+#     giving_value=input("enter your value: ")
+# print("you are Winner!")
+#
+#
+#
+# try:
+#     # print(10 / 0)
+#     variable = int(input("Enter the Integer: "))
+#     print (variable)
+# except ZeroDivisionError:
+#    print("Divided By Zero")
+# except ValueError:
+#     print("Invalid Input")
+# except OverflowError:
+#     print("the value is :"+ variable)
+#
+# filename=open("index.html","w")
+# # print()
+# filename.write("<h2>This is the Second large header</h2>")
+# # print(filename.readlines()[1])
+#
+# filename.close()
+#
+# # ----Array-----#
+#
+# cars=["volvo","Toyota","marcidiz","Lambergini"]
+# for x in cars:
+#     print(x)
+# x=len(cars)
+# # print(x)
+# cars.append("Hundai")
+# cars.remove("Toyota")
+# cars.pop(2)
+# print(cars)
+#
+# # -----objectOrientedBase----#
+#
+# class person:
+#     def __init__(abc, name,age):
+#         abc.name=name
+#         abc.age=age
+#     def myfunc(parameter):
+#         print(parameter.age)
+# p1=person("Monir",55)
+# p1.myfunc()
+# print(p1.age)
+# p1.myfunc()
+#
+# # --InheriTence--#
+#
+# class second:
+#     def __init__(self, a, b):
+#          self.name=a
+#          self.age=b
+#     def myfunc(a):
+#         print(a.name)
+# class student(second):
+#     def __init__(self,a,b):
+#      super().__init__(a,b)
+# p1= student("abdul", 33)
+# p1.myfunc()
+#
+# value=int(input())
+# for n in range(value):
+#     print(n+1, end="")
+#
+# list=[22,33,3,3,22,3,3,33,23,[2,3,4,44,55,555]]
+# print(list[9][5])
+#
+# matrix=[[j for j in range(0,3)]for i in range(0,2)]
+# print(matrix)
+#
+# Input List using for loop
+# list=[]
+# n= int(input("Enter thr number of element: "))
+# for i in range(0,n):
+#     ele=int(input("The Element is: "))
+#     list.append(ele)
+# print(list)
+#
+# input list using while loop
+# try:
+# #     mylist=[]
+# #     while True:
+# #         mylist.append(int(input()))
+# # except:
+# #     print(mylist)
+#
+# list comprehension
+#
+movies=[("qqwe",2000),("dwedwed",2000), ("ewdwdw",2001),("qwede3d",2001),("edewdwd",2001)]
+
+# gmovies=[title for title in movies if title.startwith("e")]
+# print(gmovies)
+# sec2=[]
+# for title in movies:
+#     if title.startswith('d'):
+#         sec2.append(title)
+# print(sec2)
+#
+# A=[2,3,4,5,8]
+# B=[3,4,5,6,7]
+# cartesian_product=[(a,b) for a in A for b in B]
+# print(f"Those Cartesian Value is : {cartesian_product}")
+
+# while Loop gmae
+#
+# command=""
+# started=False
+# while True:
+#    command=input(">").lower()
+#    if command=="start":
+#        if started:
+#            print("Car Already Started")
+#        else:
+#          started=True
+#          print("The Car Is Started....")
+#    elif command=="stop":
+#        if not started:
+#            print("The Car is Already Stopped")
+#        else:
+#          started=False
+#          print("The Car is Stopped.")
+#    elif command=="help":
+#        print("""
+# Type start for start Car
+# Type stop for stop car
+# Type quit for quit
+#        """)
+#    elif command=="quit":
+#        break
+#    else:
+#        print("sorry We DOnt Understand")
+
+#Another For Loop gmae:
+
+# number=[5,2,5,2,2]
+# for i in number:
+#     for j in range(i):
+#         print("x",end="")
+#     print()
+
+# wORD =TO NUmber  COnverter With Dictionaries
+
+# number=input("Number is : ")
+# disctionary_mapping={
+#     "0":"Zero",
+#     "1":"One",
+#     "2":"Two",
+#     "3":"Three",
+#     "4":"Four",
+#      "5":"Five",
+#     "6":"Six",
+#     "7":"Seven",
+#     "8":"Eight",
+#      "9":"Nine"
+# }
+# output=""
+# for char in number:
+#     output +=disctionary_mapping.get(char,"none")+ " "
+# print(output)
+
+# return function
+
+# def square(number):
+#     return number * number
+# print(square(7))
+
+
+
+
+# import random
+#
+# def quicksort(arr, start, stop):
+#     if (start < stop):
+#         pivotindex = partitionrand(arr, start, stop)
+#         quicksort(arr, start, pivotindex)
+#         quicksort(arr, pivotindex + 1, stop)
+# def partitionrand(arr, start, stop):
+#     randpivot = random.randrange(start, stop)
+#     arr[start], arr[randpivot] = arr[randpivot], arr[start]
+#     return partition(arr, start, stop)
+# def partition(arr, start, stop):
+#     pivot = start  # pivot
+#     i = start - 1
+#     j = stop + 1
+#     while True:
+#         while True:
+#             i = i + 1
+#             if arr[i] >= arr[pivot]:
+#                 break
+#         while True:
+#             j = j - 1
+#             if arr[j] <= arr[pivot]:
+#                 break
+#         if i >= j:
+#             return j
+#         arr[i], arr[j] = arr[j], arr[i]
+# if __name__ == "__main__":
+#     array =[2,3,4,5,5,6,7,8,9]
+#     quicksort(array, 0, len(array) - 1)
+#     print(array)
+#
+
+
+# def quickshort(A,low,high):
+# # #     if low < high:
+# # #         p=partition(A,low,high)
+# # #         quickshort(A, low, p-1)
+# # #         quickshort(A, p+1, high)
+# # # def partition(A,low,high):
+# # #     i=low-1
+# # #     pivot=A[high]
+# # #     for j in range(low, high):
+# # #         if A[j] <= pivot:
+# # #             i= i + 1
+# # #             A[i], A[j] = A[j], A[i]
+# # #     A[i+1], A[high] = A[high], A[i+1]
+# # #     return  i+1
+# # # A=[2,54,5,54,2,3,55,33,44,6,7,8]
+# # # print(A)
+# # # quickshort(A,0,len(A)-1)
+# # # print(A)
+
+
+
+# list=[]
+# n= int(input("Enter thr number of element: "))
+# for i in range(0,n):
+#     ele=int(input("The Element is: "))
+#     list.append(ele)
+# print(list)
+
+
+# Random Quick Short
+# import random
+#
+# def Quicksort(A, p, r):
+#     if (p < r):
+#         q = partrand(A, p, r)
+#         Quicksort(A, p, q - 1)
+#         Quicksort(A, q + 1, r)
+#
+# def partrand(A, p, r):
+#     i = random.randrange(p, r)
+#     A[r], A[i] = A[i], A[r]
+#     return Quickpartition(A, p, r)
+#
+# def Quickpartition(A, p, r):
+#     pivot = p
+#     i = p + 1
+#     for j in range(p + 1, r + 1):
+#         if A[j] <= A[pivot]:
+#             A[i], A[j] = A[j], A[i]
+#             i = i + 1
+#     A[pivot], A[i - 1] = A[i - 1], A[pivot]
+#     pivot = i - 1
+#     return (pivot)
+# if __name__ == "__main__":
+#     A=[]
+#     n=int(input("Enter The Value of n: "))
+#     for i in range(0,n):
+#         ele=int(input("Element are: "))
+#         A.append(ele)
+#     Quicksort(A, 0, len(A) - 1)
+#     print(f"After Sorting: {A}")
+
+
+
+
+# import sys
+# def RandSelect(arr, l, r, k):
+#     # If k is smaller than number of
+#     # elements in array
+#     if (k > 0 and k <= r - l + 1):
+#
+#         # Partition the array around last
+#         # element and get position of pivot
+#         # element in sorted array
+#         pos = partition(arr, l, r)
+#
+#         # If position is same as k
+#         if (pos - l == k - 1):
+#             return arr[pos]
+#         if (pos - l > k - 1):  # If position is more,
+#             # recur for left subarray
+#             return RandSelect(arr, l, pos - 1, k)
+#
+#             # Else recur for right subarray
+#         return RandSelect(arr, pos + 1, r,
+#                            k - pos + l - 1)
+#
+#         # If k is more than number of
+#     # elements in array
+#     return sys.maxsize
+#
+#
+# # Standard partition process of QuickSort().
+# # It considers the last element as pivot and
+# # moves all smaller element to left of it
+# # and greater elements to right
+# def partition(arr, l, r):
+#     x = arr[r]
+#     i = l
+#     for j in range(l, r):
+#         if (arr[j] <= x):
+#             arr[i], arr[j] = arr[j], arr[i]
+#             i += 1
+#     arr[i], arr[r] = arr[r], arr[i]
+#     return i
+#
+#
+# # Driver Code
+# if __name__ == "__main__":
+#     arr = [12, 3, 5, 7, 4, 19, 26]
+#     n = len(arr)
+#     k = 3;
+#     print("K'th smallest element is",
+#           RandSelect(arr, 0, n - 1, k))
+
+# import random
+# # def RandomSelect(A,p,r,i):
+# #     if p==r:
+# #         return A[p]
+# #    q=randomizeSelection(A,p,r)
+# #    k=q-p+1
+# #    if i==k
+# #        return A[q]
+# #    elif i<k
+# #        return RandomSelect(A,p,q-1,i)
+# #    else:
+# #        return RandomSelect(A,q+1,r,i-k)
+#
+#
+# # _________________Select SOrt---------------
+#
+#
+#
+
+
+# from random import shuffle
+# def randompartition(A, l, n, pivot):
+#     p = A[pivot]
+#     A[n - 1], A[pivot] = A[pivot], A[n - 1]
+#     i = l - 1
+#     for j in range(l, n):
+#         if A[j] <= p:
+#             i += 1
+#             A[i], A[j] = A[j], A[i]
+#     return i
+#
+# def randselect(A, l, n, k):
+#     shuffle(A)
+#     while True:
+#         q = randompartition(A, l, n, 1)
+#         if q == k:
+#             return A[q]
+#         elif q < k:
+#             l = q + 1
+#         else:
+#             n = q
+#
+# if __name__ == "__main__":
+#  A = []
+#  c = int(input("Enter The Value of n: "))
+#  for i in range(0, c):
+#         ele = int(input(""))
+#         A.append(ele)
+# print(f"Elements Are: {A}")
+# n = len(A)
+# k =int(input("enter the Index value : "))
+# print("K'th element is",
+# randselect(A, 0, n, k))
+#
+
+
+
+#
+# import random
+#
+#
+# def randselect(A, l, n, k):
+#
+#     if (k > 0 and k <= n - l + 1):
+#         pos = randPartition(A, l, n)
+#         if (pos - l == k - 1):
+#             return A[pos]
+#         if (pos - l > k - 1):
+#             return randselect(A, l, pos - 1, k)
+#         return randselect(A, pos + 1, n,
+#                            k - pos + l - 1)
+#     return 9999
+# def swap(A, a, b):
+#     temp = A[a]
+#     A[a] = A[b]
+#     A[b] = temp
+#
+#
+#
+# def partition(A, l, n):
+#     x = A[n]
+#     i = l
+#     for j in range(l, n):
+#         if (A[j] <= x):
+#             swap(A, i, j)
+#             i += 1
+#     swap(A, i, n)
+#     return i
+#
+# def randPartition(A, l, r):
+#     n = r - l + 1
+#     pivot = int(random.random() % n)
+#     swap(A, l + pivot, r)
+#     return partition(A, l, r)
+#
+#
+#
+# if __name__ == '__main__':
+#  arr = []
+#  c = int(input("Enter The Value of n: "))
+# for i in range(0, c):
+#     ele = int(input(""))
+#     arr.append(ele)
+# print(arr)
+# n = len(arr)
+# k =int(input("enter the index number : "))
+# print("K'th index  element is: ",
+# randselect(arr, 0, n - 1, k))
+
+
+# from random import shuffle
+# def randompartition(A, l, n, pivot):
+#     p = A[pivot]
+#     A[n - 1], A[pivot] = A[pivot], A[n - 1]
+#     i = l - 1
+#     for j in range(l, n):
+#         if A[j] <= p:
+#             i += 1
+#             A[i], A[j] = A[j], A[i]
+#     return i
+#
+# def randselect(A, l, n, k):
+#     shuffle(A)
+#     while True:
+#         q = randompartition(A, l, n, 1)
+#         if q == k:
+#             return A[q]
+#         elif q < k:
+#             l = q + 1
+#         else:
+#             n = q
+#
+# if __name__ == "__main__":
+#  A = []
+#  c = int(input("Enter The Value of n: "))
+#  for i in range(0, c):
+#         ele = int(input(""))
+#         A.append(ele)
+# print(f"Elements Are: {A}")
+# n = len(A)
+# k =int(input("enter the Index value : "))
+# print("K'th element is",
+# randselect(A, 0, n, k))
+
+# Python program for weighted job scheduling using Dynamic
+# Programming and Binary Search
+
+
+#
+# # Class to represent a job
+# class Job:
+#     def __init__(self, start, finish, profit):
+#         self.start = start
+#         self.finish = finish
+#         self.profit = profit
+#
+#     # A Binary Search based function to find the latest job
+#
+#
+# # (before current job) that doesn't conflict with current
+# # job.  "index" is index of the current job.  This function
+# # returns -1 if all jobs before index conflict with it.
+# # The array jobs[] is sorted in increasing order of finish
+# # time.
+# def binarySearch(job, start_index):
+#     # Initialize 'lo' and 'hi' for Binary Search
+#     lo = 0
+#     hi = start_index - 1
+#
+#     # Perform binary Search iteratively
+#     while lo <= hi:
+#         mid = (lo + hi) // 2
+#         if job[mid].finish <= job[start_index].start:
+#             if job[mid + 1].finish <= job[start_index].start:
+#                 lo = mid + 1
+#             else:
+#                 return mid
+#         else:
+#             hi = mid - 1
+#     return -1
+#
+#
+# # The main function that returns the maximum possible
+# # profit from given array of jobs
+# def schedule(job):
+#     # Sort jobs according to finish time
+#     job = sorted(job, key=lambda j: j.finish)
+#
+#     # Create an array to store solutions of subproblems.  table[i]
+#     # stores the profit for jobs till arr[i] (including arr[i])
+#     n = len(job)
+#     table = [0 for _ in range(n)]
+#
+#     table[0] = job[0].profit
+#
+#     # Fill entries in table[] using recursive property
+#     for i in range(1, n):
+#
+#         # Find profit including the current job
+#         inclProf = job[i].profit
+#         l = binarySearch(job, i)
+#         if (l != -1):
+#             inclProf += table[l]
+#
+#             # Store maximum of including and excluding
+#         table[i] = max(inclProf, table[i - 1])
+#
+#     return table[n - 1]
+#
+#
+# # Driver code to test above function
+# job = [Job(7, 18, 20), Job(1, 10, 10),
+#        Job(16, 27, 20), Job(13, 20, 5),Job(23, 32, 15)]
+# print(f'Total Weight : {schedule(job)}')
+
+ #----fibonacci Series----!
+
+# def fibonacci(n):
+#     if n==1:
+#         return  1
+#     elif n==2:
+#         return 1
+#     elif n>2:
+#         return fibonacci(n-1)+fibonacci(n-2)
+# for n in range (1,11):
+#     print(n, ":", fibonacci(n))
+
+#---!fibonacci Using Memoize(top-down)---
+
+# fibonacci_cache = {}
+# def fibonacci(n):
+#  global value
+#  if n in fibonacci_cache:
+#     return fibonacci_cache[n]
+#  if n == 1:
+#     value = 1
+#  elif n == 2:
+#      value = 1
+#  elif n > 2:
+#      value = fibonacci(n-1) + fibonacci(n-2)
+#
+#  fibonacci_cache[n]=  value
+#  return  value
+# for n in range(1, 1001):
+#     print(fibonacci(n))
+
+#---!fibonacci using Tabulation----!
+
+#---Bubble sort---!
+# def mybubbleSort(n):
+#     for i in range (0, len(n)-1):
+#         for j in range (0, len(n)-1-i):
+#             if n[j] > n[j+1]:
+#                 n[j], n[j+1] = n[j+1],n[j]
+#     return n
+# n=[3,4,1,8,3,0]
+# print(mybubbleSort(n))
+
+#!!---how to input 2D Array----
+# from numpy import *
+# m=int(input("enter the Number of Row : "))
+# n=int(input("enter the Number of Columnn: "))
+# Job=[]
+# for i in range(0,n):
+#     Job.append([])
+# for i in range (0,m):
+#     for j in range (0,n):
+#         Job[j].append(i)
+#         Job[i][j]=0
+# for i in range (0,m):
+#     for j in range(0,n):
+#         print("entry Of Row:",i+1,'Column',j+1)
+#         Job[i][j]=int(input())
+# print(Job)
+
+# # bottom Up WIS
+# import bisect
+# def previous_intervals(V):
+#     start = [task[1] for task in V]
+#     finish = [task[2] for task in V]
+#     p = []
+#
+#     for i in range(len(I)):
+#         idx = bisect.bisect(finish, start[i]) - 1
+#         p.append(idx)
+#
+#     return p
+#
+#
+# def find_solution(j):
+#     if j == -1:
+#         return
+#     else:
+#         if (I[j][3] + OPT[p[j]]) >= OPT[j - 1]:
+#             O.append(I[j][0])
+#             find_solution(p[j])
+#
+#         else:
+#             find_solution(j - 1)
+#
+#
+# def memoized_Wiz(j):
+#     if j == -1:
+#         return 0
+#     elif (0 <= j) and (j < len(OPT)):
+#         return OPT[j]
+#     else:
+#         return max(I[j][3] + memoized_Wiz(p[j]), memoized_Wiz(j - 1))
+#
+#
+# def weighted_interval(V):
+#     for j in range(len(V)):
+#         opt_j = memoized_Wiz(j)
+#         OPT.append(opt_j)
+#
+#     find_solution(len(V) - 1)
+#
+#     return OPT[-1]
+#
+#
+# if __name__ == '__main__':
+#     OPT = []
+#     O = []
+#     lines = tuple(open('WIS.txt', 'r'))
+#     I = []
+#     for line in lines:
+#         ln = line.split()
+#         kl = tuple()
+#         mm = []
+#         for vl in ln:
+#             mm.append(int(vl))
+#         I.append(tuple(mm))
+#     I.sort(key=lambda tup: tup[1])
+#     print(I)
+#     p = previous_intervals(I)
+#     max_weight = weighted_interval(I)
+#     print('Maximum weight: ' + str(max_weight))
+#     print('The best items to take are: ' + str(O[::-1]))
+
+# !!!----print UnderLoop---
+# a=tuple(open('WIS.txt','r'))
+# for line in a:
+#     fields=line.split()
+#     print(fields[0])
+
+# lines = tuple(open('WIS.txt', 'r'))
+# twoDArray = []
+# i=0
+# for line in lines:
+#   divdedincolumn = line.split()
+#   twoDArray.append(divdedincolumn)
+#   print(twoDArray[0])
+
+#nextOne
+# lines = tuple(open('WIS.txt', 'r'))
+# twoDArray = []
+# i=0
+# for line in lines:
+#   divdedincolumn = line.split()
+#   twoDArray.append(divdedincolumn)
+  #print(divdedincolumn[0])
+ #str.split()
+#print(lines[0])
+
+#single rows single column print....
+#print(twoDArray[0][0])
+#single row print..
+
+
+# Top Down Approach------#?
+#
+# import bisect
+# def previous_intervals(V):
+#     start = [task[1] for task in V]
+#     finish = [task[2] for task in V]
+#     p = []
+#     for i in range(len(I)):
+#         idx = bisect.bisect(finish, start[i]) - 1
+#         p.append(idx)
+#     return p
+#
+# def find_solution(j):
+#     if j == -1:
+#       return 0
+#     elif (I[j][3] + OPT[p[j]]) >= OPT[j - 1]:
+#         O.append(I[j][0])  # append only selected job number
+#         find_solution(p[j])
+#     else:
+#         find_solution(j - 1)
+#
+# def memoized_Wiz(j):
+#     if j == -1:
+#         return 0
+#     elif j!=0:
+#         return OPT[j]
+#     else:
+#         a= max(I[j][3] + memoized_Wiz(p[j]), memoized_Wiz(j - 1))
+#         OPT[j].append(a)
+#
+#         return OPT[j]
+# def weighted_interval(V):
+#     j=len(V)-1
+#     while j>-1:
+#         # print(j)
+#         opt_j = memoized_Wiz(j)
+#         OPT.append(opt_j)
+#         j-= 1
+#     find_solution(len(V) - 1)
+#     return OPT[-1]
+#
+#
+# if __name__ == '__main__':
+#     OPT = []
+#     O = []
+#     lines = tuple(open('WIS.txt', 'r'))
+#     I = []
+#     for line in lines:
+#         ln = line.split()
+#         # kl = tuple()
+#         mm = []
+#         for vl in ln:
+#             mm.append(int(vl))
+#         I.append(tuple(mm))
+#     I.sort(key=lambda tup: tup[1])
+#     p = previous_intervals(I)
+#     max_weight = weighted_interval(I)
+#     print('Maximum weight: ' + str(max_weight))
+#     print('The best items to take are: ' + str(O[::-1]))
+#
+
+
+# ---Bottom_Up Approch---#?
+#
+# import bisect  # Binary search
+#
+# def pi(I):  ## Previous interval for P vector
+#     p = []
+#     start = [task[1] for task in I]  # list of all starting time
+#     finish = [task[2] for task in I]  # list of all finish time (sorted)
+#     for i in range(len(I)):
+#         idx = bisect.bisect(finish, start[i]) - 1  # Binary search and index, in no element it will be -1
+#         p.append(idx)
+#     return p
+#
+#
+#   # Solution finding by backtracking bottom-up
+# def fs(j):  # Solution finding by backtracking bottom-up
+#     if j == -1:
+#          return 0
+#     #else
+#     elif (I[j][3] + OPT[p[j]]) >= OPT[j - 1]:
+#        BS.append(I[j][0])  # append only selected job number
+#        fs(p[j])
+#     else:
+#         fs(j - 1)
+#
+#
+# def co(j):  # recursive formula
+#     if j == -1:
+#         return 0
+#     # elif (0 <= j) and (j < len(OPT)):  # find if memoized, than dont calculate again.
+#     #     # print (OPT[j])
+#     #     return (OPT[j])
+#     else:
+#         print (co(j-1))
+#         return max(I[j][3] + co(p[j]), co(j - 1))
+#
+# def top(j):  # recursive formula
+#     if j == -1:
+#         return 0
+#     # elif (0 <= j) and (j < len(OPT)):  # find if memoized, than dont calculate again.
+#     #     return (OPT[j])
+#     else:
+#         print (top(j-1))
+#         return max(I[j][3] + top(p[j]), top(j - 1))
+# 2
+#
+#
+# def weighted_interval(I):
+#     j = len(I) - 1
+#     while j > -1:
+#         opt_j = top(j)
+#         OPT.append(opt_j)
+#         j -= 1
+#     fs(len(I) - 1)
+#     return OPT[-1]
+#
+#
+# def wi(I):  # find optimal for each subproblems
+#     for j in range(0,len(I)):
+#         opt_j = wi(j)
+#         OPT.append(opt_j)
+#     fs(len(I) - 1)
+#     return OPT[-1]  # total weight
+#
+#
+#if __name__ == "__main__":
+#         OPT = []
+#         BS = []
+#         lines = tuple(open('WIS.txt', 'r'))
+#          I = []
+#         for line in lines:
+#             ln = line.split()
+#             kl = tuple()
+#             mm = []
+#             for vl in ln:
+#                 mm.append(int(vl))
+#             I.append(tuple(mm))
+#         I.sort(key=lambda tup: tup[1])
+#         p = pi(I)
+# def switch():
+#     print("Press 1: Bottom-up algorithm \npress 2:Top-down memoized algorithm  \n")
+#     option = int(input("Select option : "))
+#     if option == 1:
+#         opt_sol = wi(I)
+#         # print('Index: ' +str(p))
+#         print('Input intervals: ' + str(I))
+#         print('Selected intervals: ' + str(BS[::-1]))
+#         print('Total weight: ' + str(opt_sol))
+#     elif option == 2:
+#         opt_sol1 = weighted_interval(I)
+#         print('Input intervals: ' + str(I))
+#         print('Selected intervals: ' + str(BS[::-1]))
+#         print('Total weight: ' + str(opt_sol1))
+#     else:
+#         print("Incorrect option entered")
+#
+# switch()
+
+#Top_down and bottomUp Algorithm
+#
+# class Job:
+#     def __init__(self, start, finish, p):
+#         self.start = start
+#         self.finish = finish
+#         self.p = p
+#
+# def binarySearch(j, start_index):
+#     lo = 0
+#     hi = start_index - 1
+#     while lo <= hi:
+#         mid = (lo + hi) // 2
+#         if j[mid].finish <= j[start_index].start:
+#             if j[mid + 1].finish <= j[start_index].start:
+#                 lo = mid + 1
+#             else:
+#                 return mid
+#         else:
+#             hi = mid - 1
+#     return -1
+#
+# def memoize(j,n):
+#     j = sorted(j, key=lambda j: j.finish)
+#     if n<0:
+#         return  0
+#     elif n==0:
+#         return j[0].p
+#     index=binarySearch(j,n)
+#     a=j[n].p + memoize(j,index)
+#     b=memoize(j,n-1)
+#     j[0]=max(a,b)
+#     return j[0]
+#
+#
+# def bottom_up(j):
+#     j = sorted(j, key=lambda j: j.finish)
+#     n = len(j)
+#     table = [0 for _ in range(n)]
+#     table[0] = j[0].p
+#     for i in range(1, n):
+#         inclProf = j[i].p
+#         l = binarySearch(j, i)
+#         if (l != -1):
+#             inclProf += table[l]
+#         table[i] = max(inclProf, table[i - 1])
+#     return table[n - 1]
+#
+# if __name__ == '__main__':
+#     lines = tuple(open('WIS.txt', 'r'))
+#     interval = []
+#     for line in lines:
+#         ln = line.split()
+#         mm = []
+#         i=0
+#         a1=0
+#         a2=0
+#         a3=0
+#         for vl in ln:
+#             if i==1:
+#               a1=int(vl)
+#             elif i==2:
+#                 a2=int(vl)
+#             elif i==3:
+#                 a3=int(vl)
+#             i += 1
+#         b=Job(a1,a2,a3)
+#         interval.append(b)
+#
+# def switch():
+#     print("Press 1:Top-down memoized algorithm :\n"
+#           "Press 2: Bottom-up algorithm :\n")
+#     option = int(input("Select option : "))
+#     if option == 1:
+#         print(f"Total Weight: {memoize(interval, len(interval) - 1)}")
+#
+#     elif option == 2:
+#         print(f"Total Weight:{ bottom_up(interval)} ")
+#     else:
+#         print("Wrong option ")
+# switch()
+
+#How to read and write file
+
+# with open("text.txt", mode='r') as files:
+#     total_words=[]
+#     for lines in files.readlines():
+#         words=lines.strip().split(" ")
+#         total_words += words
+#     unique_word=set(total_words)
+#     print(len(total_words))
+#     print(len(unique_word))
+#     with open("uniquefile.txt",mode="w") as writeFile:
+#         for singleword in unique_word:
+#             writeFile.write(singleword)
+#             writeFile.write("\n")
+
+#lambda Programming
+
+
+f= lambda a:a*a
+a= f(5)
+print(a)
