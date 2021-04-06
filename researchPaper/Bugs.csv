@@ -1,0 +1,1143 @@
+Summary,Severity
+[wayland] Folders with many entries in them on my bookmarks toolbar do not open, --
+The latest update (67) just deleted ALL OF MY BOOKMARKS AND EXTENSIONS,normal
+Dragging imported folders in bookmark manager does not move all nested bookmarks,normal
+[wayland] Contents of folders in Bookmarks Toolbar which require scrolling don't appear, --
+nsINavBookmarkObserver onItemChanged() is triggered for each tag added to a bookmark (for that bookmark),normal
+Gtk3 bookmarks view has wrong focus on open,normal
+RTL line support in webpages' titles in Tabs and Bookmarks,normal
+Sync Bookmarks: Browser are unresponsive when running Sync.Engine.Bookmarks TRACE Mapped,normal
+"Ctrl+shift+drag on a bookmark/bookmark folder indicates a (symbolic) link will be created, but only a copy is created",normal
+Feature Request: Bookmarks Folder Holding Function,normal
+"when the Preference under General ""Open windows in a new tab instead"" is checked the new URL loads over the current tab when opening a url from the library",normal
+Bookmarks list entries disappear for a while when scrolling down,normal
+Unable to open bookmarks using middle click when connected to single monitor,normal
+Fennec Bookmark Management: Desktop Bookmarks should be at bottom of folder list to match Firefox Desktop order,normal
+"Initial bookmarks sync is very slow, takes hours or never ends (for ~35000 bookmarks)",normal
+"Getting Binary Symbols in Navbar, Bookmarks, and Menu Text",normal
+Firefox Sync restores deleted bookmarks,normal
+Bookmarks with no title in bookmark panel disappear when in sync with samsung internet,normal
+Toggling Bookmarks Sidebar On/Off always causes flickering on the right side of the screen if you've selected 'Move Sidebar to Left'...,normal
+Viewing bookmarks clears current page - no way to launch bookmarklets,normal
+Problematic interations between sync and icloud-bookmarks extension,normal
+Deleted bookmarks in toolbar folder come back at end of list.,normal
+"When you add a pocket bookmark, it plays an animation which blocks the bookmarks from being opened",minor
+Bookmarks are not shown in overview section on new tab,normal
+Button to select the bookmarks folder that you want to be displayed on Bookmarks Toolbar,normal
+"In Bookmarks Toolbar, if >1 folder has (no title), upon syncing, all bookmarks across both folders will end up in one folder, and the other will be empty.",S4
+[sway] [wayland] Bookmarks menu crashes,normal
+Bookmarks get mixed up during sync.,normal
+Bookmark button not working after system returning from standby,normal
+Bookmarks toolbar wrong folding after resize window,S3
+My bookmarks are not visible in Highlights,S3
+my bookmarks continuously copy/sync and duplicate them self,S3
+"Special bookmarks folders are not merged, when using sync with different languages",normal
+Bookmarks toolbar item height is greater than other buttons height,normal
+"messageManager not working for ""bookmarksPanel.xul"".",normal
+Do not prompt if I really want to use HTTP authentication for URLs like http://user1@eample.org when using bookmarks or the location bar,normal
+Being able to remember better the last folders selected for bookmarking,normal
+provide folder search within bookmarks according to matching characters,normal
+Bookmarks submenus disappear when right-clicking on them,normal
+Can't open folder in Bookmarks toolbar with touchscreen: closes immediately (Ubuntu 14.04),normal
+Feature Request: Faceted Tags,normal
+Don't log short-lived URLs in history,normal
+Bookmark button doesn't work if outside FF window,normal
+Extra spacing in bookmarks toolbar,normal
+Favicons not shown for bookmarks on bookmarks bar or in bookmarks menu when there are only trivial differences in URL,normal
+Closing a bookmark folder in bookmark sidebar can select/trigger another bookmark,normal
+History should not be sorted,normal
+Show thumbnails / previews of bookmarks and allow transformation of sets of bookmarks into tabs,normal
+Bookmarks render differently in FF toolbar menus and Mac system bar menus,normal
+bookmarks.search() API - add dateAdded property to query object,normal
+"When there are no bookmarks in the Bookmarks bar, it shrinks vertically and doesn't stay the same height",normal
+Replacing or changing search keyword URLs does not work,normal
+Allow webextensions to open/enable Firefox UI elements (open file/bookmarks library/searchbar),normal
+Inconsistent padding/spacing on bottom of bookmarks toolbar,normal
+Show fragment in brackets in bookmark title when bookmarked,normal
+"Add an ""Add bookmark here"" option",normal
+Sometimes bookmarks folder gets deleted after Firefox is killed from task manager,normal
+"""Show all bookmarks"" should be somewhere else in the hamburger/library bookmarks dropdown/panel/doorhanger/popup/menu",normal
+"""The bookmarks and history system will not be functional"" even on new profile",normal
+Firefox does not include bookmarks in address bar search,normal
+Pinned top sites on home page should be synced as bookmarks,normal
+Vertical alignment of Menu Bar and Bookmarks Toolbar items mismatched,normal
+"→ Firefox hangs When Opening many YouTube tabs . And sometime leaks bookmarked I saved to Bookmark tool bar.For example, when I save some YouTube links to bookmark bar i didn't find them again after restarting Firefox. This Happened to me intermittently.",critical
+i have lost my firefox which had my data regrading all bookmarks,normal
+"navigation, bookmarks, and status bar cannot be displayed on new window",minor
+Moving bookmark and folder in Bookmarks Toolbar,normal
+"Firefox Profiles in VMware Host create multiple files ie bookmarks, cookies, prefs - etc",normal
+Dragging entries from Bookmarks Toolbar to Trash doesn't trash them,minor
+Open a selection of bookmarks,normal
+Mac bookmarks library quick-search should be Command-option-F,minor
+open Bookmarks subdirs at the left although there is enough space at the right,minor
+Bookmarks Toolbar collapsed with search field,normal
+No favicon in bookmarks copied to GNOME desktop,normal
+"Upon open ""When FireFox Starts"", ""Use Bookmark"" only open the first 2 bookmarks of 7 in the list",normal
+Make Bookmarks Toolbar appear on the Menu line by Default,normal
+The icon arrow-liked don't disappear from the bookmark side at bookmarks toolbar,trivial
+If I want to change order (bookmarks above homepage icon) text in homepage does not disapear,trivial
+Auto-fill the (unused portion of the) Bookmarks Toolbar with frecently used websites,normal
+In 'Bookmarks Toolbar' created and moved folder don't show bookmarks moved in it,normal
+"The toolbar is all Los Angeles Times bookmarks, and drop bars, I can't edit it, if I try adding anything else to the toolbar it becomes Los Angeles Times",normal
+Icons and folders in bookmarks toolbar disappear and appear after several reboots,normal
+dropdown menu missing to show more bookmarks that don't fit onscreen in bookmarks toolbar,normal
+Bookmarks Menu button redundant to the Firefox Menu button,normal
+Bookmarks toolbar doesn't resize correctly when adding bookmarks,normal
+"Add option ""Login immediately"" to Bookmarks Manager",normal
+"I have to dodge the new tab arrow to click bookmarks, history or to mouse over the bookmarks or history arrow",major
+Homepage with multiple bookmarks will not load correctly on startup,normal
+"resize of bookmarks for all tabs just resizes the window's border, not the content area.",normal
+Toolbar buttons cause Bookmarks Toolbar to grow taller.,normal
+Move default bookmarks toolbar position above Tabs bar,normal
+properties of bookmarks are not shown when rightclicked,major
+"FF4 App Tab URLs should act more like Bookmarks, and not be current-page persistent across restarts",normal
+"Bookmarks that fit on the bookmarks toolbar, do not fit after resize",normal
+"sub-menus (bookmarks, etc) stutter when using dual screens.",normal
+Dragging fails permanently after dragging a folder from the Bookmarks Toolbar Items widget,normal
+Bookmarks toolbar behaves erratically if Search toolbar is also turned on and located on the same line,minor
+Bookmarks Dialog window does not display due to hardware acceleration on Intel HD Graphics 3000,normal
+"[HWA] Bookmarks Toolbar extends past window,leaves persistent image on desktop",normal
+Bookmarks-toolbar-items is not visible on Aero background,normal
+"""Bookmarks Toolbar"" and ""Tabs"" get merged together when new window opened when clicking on a link",normal
+"Bookmarks menu should expose ""Add Bookmark"" function as first item",normal
+"""Find"" bar cannot be closed. At the same time, ""Open a new tab"", bookmarks toolbar and reloading page doesn't work.",normal
+Existing history entries replaced when revisit web page,normal
+Bookmarks rearrange themselves after close/restart in Nightly 15.0a1 (2012-05-02),normal
+Classic Button for Bookmarks Toolbar,normal
+recursive folders gets created in bookmarks,normal
+Investigate if we need to Port |Bug 728426 - Opening and then closing bookmarks sidebar keeps the bookmarksPanel.xul and/or history-panel.xul document alive| to SeaMonkey,normal
+bookmarks child menus jitter and shake incessantly when dragging in a shortcut while the main firefox window is using an external monitor,normal
+Layout customization under addon tab doesn't show navigation bar and bookmarks bar,normal
+Bookmarks of Firefox Sync lost,normal
+Bookmarks list does not tidy up header and footer after display,normal
+Items from Bookmarks toolbar open invisible,normal
+Shortcut for «Show all bookmarks» (Shift+Cmd+D) is not working in Firefox 19.0 under OS X Mountain Lion,normal
+Bookmarks Toolbar on Navigation Bar Problem,normal
+Bookmarks menu not drawn (drop-shadow only),normal
+"when I stop/restart FF, certain icons  (always the same ones) disappear from bookmarks toolbar",normal
+Bookmarks toolbar 'shrinks' when window is resized/restored,normal
+Live bookmarks do not work with ampersand as &amp; code,normal
+Opening several external links makes the bookmarks toolbar to disappear,normal
+Bookmarks toolbar improvements,normal
+Bookmarks button missing,normal
+Storage tabs in Data Manager are greyed out even for sites that store info locally,normal
+Hoovering over a playing quicktime movie shows part of bookmarks bar with HWA enabled,normal
+Show bookmarks icon stretches vertically (Australis),normal
+Bookmarks bar disappears on start-up,normal
+Bookmarks menu subfolders don't display if bookmark titles are long,normal
+Bookmarks wont sync,normal
+Bookmark menu button border style wrong when on bookmarks toolbar on Windows 7 aero,normal
+favicon placeholder boxes waste horizontal space in the bookmarks toolbar,normal
+"List of open pages with functionality to search, save, close, move alongside bookmarks and history",normal
+Bookmarks read-only when other than Default theme is used,major
+Firefox themes are moving the bookmarks toolbar above the web address toolbar,normal
+Autocomplete: Show (found) tags of bookmarks reliably,normal
+"On the navigation toolbar, icons and bookmarks are pushed away by the address field when dragging a tab on the toolbar.",normal
+"Bookmarks don't resize when they leave toolbar in customize mode, so it's often difficult to drag and drop them on desired position",normal
+"In FF 40.0.3 on OS X 10.10.5, reordering bookmarks in bookmarks toolbar folders via drag-and-drop opens bookmarks",normal
+History script related UI freezes,normal
+Help: Personal Toolbar needs to be renamed to Bookmarks Toolbar,normal
+Width of bookmark properties dialog is the same with or without a folder picker,minor
+"customize_help.xhtml: Bookmarks storage description wrong, is not .html",normal
+Highlighting jumps to arbitrary list item after deletion of History entry in sidebar after sort order change,minor
+Scrolling with mouse wheel on bookmarks main menu stops and switches to expanded sub menu when I hover over a main folder for more than a split second.,normal
+Bookmarks panel blinks if I try to close it when context menu is open,trivial
+"""Restore Session"" page freezes bookmarks items in FF 51 (Ubuntu 16.04)",normal
+Bookmark keyword is reset every time the bookmark location is changed,normal
+Keyword substitution with %s doesn't escape characters in javascript: URIs,normal
+"Bookmarks sync error: ""Duplicate entry for unfiled in changeset""",normal
+"Bookmarks sidebar closing triggers react invariant failure, even in another tab",normal
+Bookmarks Toolbar Folders not expanding in Mac Os Mojave,normal
+"Windows open via the menu bar (""About Firefox"" and bookmarks library, for example) open twice when I use a touch screen on linux",normal
+"Add Search Part in History, Bookmarks and Synced Tabs",normal
+Personal Toolbar-Clicking on any folder first time opens it revealing contents in a drop down menu. Succeeding attempts does not again open folders in toolbar.,normal
+Add bookmarks to MacOS Touch Bar,normal
+Library button footers only show keyboard shortcut for bookmarks,normal
+bookmarks menu > scroll font rendering,S3
+Bookmarks Menu uses incorrect arrow icons, --
+"Bookmarks subfolders not showing in ""Other bookmarks"" section in Menu", --
+goParentFolder no longer supported after SM 2.49.5, --
+Please allow a bookmarks bar to the right of menu bar's Help menu, --
+Clearly indicate if the bookmark manager dialog's filtering search field is global or specific to the selected folder, --
+"For Firefox bookmark saving - when you unchecked ""Show editor when saving"" there is no way to re-enable showing the editor.", --
+Firefox 78.0.2 browser on macOS 10.15.6 Bookmark This Page does not prompt for name or save location, --
+[SM] add folder column so bookmark search results shows where bookmark is in folder hierarchy,normal
+Bookmarks menu slow with many bookmarks in root or in one folder,major
+"tags should not be bookmarks folders, move them to a separate table",normal
+bookmarks reordered on desktop after syncing with android,normal
+Make bookmarks toolbar view use async openContainer,normal
+Default bookmarks disappear,normal
+"""Unable to process the backup file"" when importing bookmarks from JSON backup, but the bookmarks are imported correctly",normal
+dateAdded/lastModified requirements when using PlacesUtils.bookmarks.insert are confusing,normal
+Favicons in Bookmarks menu flicker rapidly; menu lags a lot,normal
+Wrong message when deleting a bookmark from Bookmarks Panel,normal
+Re-implement browser_copy_folder_tree.js,normal
+[Intermittent] Bookmarks are not correctly sorted in the Sidebar,normal
+data loss: browser.bookmarks.update() removes bookmark tags,normal
+Remove synchronous Bookmarks::InsertBookmark,normal
+Remove synchronous Bookmarks::CreateFolder,normal
+Remove synchronous Bookmarks::Get/SetItemTitle,normal
+Remove synchronous Bookmarks::SetItemLastModified,normal
+Merge the tagging API into the bookmarks API,normal
+Bookmarks.update should allow to add or remove tags,normal
+"""forget about this site"" in ""show all history"" blocks the main thread",normal
+Make tags and folder selection a subview,normal
+New Library info pane overlaps the list of bookmarks,normal
+Intermittent toolkit/components/places/tests/unit/test_origins.js | changeBookmarks - [changeBookmarks : 1268],normal
+bookmarksSidebar.xul -> bookmarksSidebar.xhtml,normal
+"""Forgetting"" a site is too easy for how destructive it can be.",normal
+Bookmark position mark misplaced when moving bookmarks in bookmark toolbar, --
+"Bookmarks 65.0 add new tag: type, FF often prompts tag AND ALSO "">>"" and next existing tag",normal
+Enable Bookmarks Toolbar when Importing Bookmarks from Chrome,normal
+No keyboard shortcut for standalone history library window on mac,normal
+URL remains in places.sqlite after deleting from bookmark (corrupt moz_origins),S3
+Add Bookmarks to FxR UI Menu,normal
+Bookmark to about:blank shows favicon from random pages,normal
+Add telemetry for sidebar search and type of view used in history sidebar,S3
+Add telemetry for how often the sidebar is opened and what panels are viewed in the sidebar.,S3
+"Opened ""Bookmarks"" menu from the Library menu glitches if Firefox window is positioned close to the bottom of the screen",minor
+"Add automated test for ""Links can be bookmarked via context menu """,normal
+bookmarks menu automatically scroll up,normal
+Imported Favorites from IE not sorted,normal
+The bookmarks menu is drawing badly. Submenus should align text top with their parent's item,trivial
+Dropping multiple bookmarks in the desktop doesn't work,normal
+bookmarks separators need a minimum width in bookmark menu.,normal
+"Bookmarks cut instead of opened in new tab from Bookmarks Toolbar Folder (shortcut key ""t"" in the right-click context menu is inconsistent with that of links)",trivial
+"""Bookmark This Link..."" context menu appends bogus whitespace characters to the bookmark name",normal
+Set site favicons for domain/host groups,normal
+[meta] Tracking: Add full-text indexing to bookmark and/or history searches,normal
+Should be able to undo changes in bookmarks from browser window (not only in Library),major
+moving mouse over submenu items in bookmarks toolbar causes the submenu to disappear [Mac],normal
+Blank bookmarks toolbar on install of Firefox 3 Beta 1,major
+"Cannot search for bookmark folders in Library or bookmarks sidebar (searching for folders in ""Organize bookmarks"" returns no results, doesn't find folder names)",normal
+Find a way to efficiently extract bookmarks paths,normal
+[Mac] Dragging Local files to Bookmarks Toolbar does not work,normal
+"Renaming a tag in the library to the name of another tag neither merges tags or rejects rename) (API for migrating, renaming, and merging tags)",normal
+"Synced tabs, bookmarks, and history entries don't have a favicon until the user re-visits that page again",normal
+"Bookmarks Toolbar context menu in Bookmarks menu refers to its parent instead (was: ""Sort By Name"" is inconsistent/broken on ""Bookmark Toolbar"" menu item)",normal
+Provide a history backup,normal
+"When master password prompt appears and a menu item (e.q. 'Bookmarks' or 'File') is open, user is unable to close menu item and enter master password.",normal
+[Mac] Unable to delete tags in left column list via the organize dropdown in the toolbar,normal
+xpcshell unittest: test_places/autocomplete/test_special_search.js fails to find bookmarks with regex type characters,normal
+bookmarks initialization is not fault tolerant,normal
+Hovering over history sidebar items show user:pass@,normal
+Poor performance using bookmarks menu with large amounts of bookmarks.,normal
+Remembering focus on add bookmarks dialog can have wrong behavior,normal
+Callers of view's itemChanged should let it know what changed,normal
+perf: API to disable/enable various itemChanged notifications.,normal
+Investigate delaying initialization of bookmarks toolbar,normal
+fix failing tests in bookmarks/test_savedsearches.js,normal
+Paste bookmark doesn't place at bottom most position,minor
+QUERY_TYPE_BOOKMARKS does not support any kind of grouping,normal
+Add an asynchronous bookmarking API,normal
+"Dragging text into fields of the bookmark properties dialog or the library, values are not saved",minor
+tab - most visited - after delete via context menu item the list wont refresh.,normal
+hard to bookmark redirects,normal
+Visually unify search and bookmark keywords,normal
+"Move the Library window (Bookmarks, History, Downloads) to a tab (in-content UI)",normal
+NotifyIconObservers doesn't set icon on redirected bookmarks in some case,normal
+Favicon is not stored if a new bookmark is added with history disabled,normal
+"Use a special mobile icon for ""Mobile Bookmarks"" in the Library window",normal
+Show bookmarks from the bookmarks toolbar in the new tab page,normal
+Extremely slow deleting from history (seems some O(n^2) algorithm is there),major
+search feature for history should have an option for date range,normal
+"Allow the ""Open in Tabs"" from Bookmark menu to load tabs on demand",normal
+Bookmark All Tabs dialog - Should use a Folder Name placeholder instead of the selected [Folder Name] text,minor
+Really bad hang in the Places Tree View when doing a search in the History sidebar,normal
+"JavaScript Error: ""this.controller is undefined"" {file: ""chrome://browser/content/places/browserPlacesViews.js"" line: 216}]",normal
+Investigate why browser_views_liveupdate.js works although it should probably be broken,normal
+bookmarks: Deleting of couple of  separators delete whole folder,critical
+The tagging service doesn't observe changes to bookmarks URLs,normal
+Undo 'restore defaults' does not restore toolbar visibility (bookmarks / menu toolbar ),normal
+Sync always messes up bookmarks with huge logs,normal
+"The bookmarks menu should be a panel in reality, not just in styling.",normal
+Show all bookmarks should not scroll with the bookmarks menu contents,normal
+Intermittent testBookmarksPanel | Checking that about:firefox displayed as a bookmark - about:firefox displayed,normal
+[UX] Make history in-content,normal
+Bookmark appears with outline from bottom after getting deleted.,normal
+Firefox 31.0 hangs when attempting to edit an old or add a new bookmark to the menu when it contains thousands bookmarks,normal
+"bookmarks library lacks ctrl+K keyboard shortcut to ""Search History"" and ""Search Bookmarks"" (ctrl+F works)",normal
+Firefox hangs/crashes when all entries in history are selected,normal
+Implement fetchTree in Bookmarks.jsm,normal
+eraseEverything needs an onClearBookmarks notification,normal
+Provide some feedback for invalid uris entered in edit-bookmark dialog/pane,normal
+Sync messes up bookmarks when using multiple devices after rearrangement,normal
+"Proper solution for implementing ""Cancel""/""Undo"" in the bookmarks dialog and Star Panel",normal
+Write regression test for bug 1090609,normal
+Cut should be disabled in read-only containers,normal
+Cannot drag & drop bookmarks from the Library after a prior attempt was made with a special folder,major
+treeView.js:158 throws an error in the Browser Console after selecting 'Cut' the second time from the sidebar's contextual menu,normal
+Firefox search bookmarks library: Cannot find bookmark with %20 in URL,normal
+Import/restore bookmarks JSON fails silently (e.g. due to permissions error),normal
+Import bookmarks from HTML destroys bookmarks,normal
+"Some bookmarks sorted by Site begin with address junk (i.e. ""www."")",trivial
+split browser_bookmarksProperties.js into single tests and add further tests,normal
+Failure to add a livemark causes bookmarks sync engine to never complete,normal
+View Pocket List from Bookmarks toolbar icon opens Log In page in Private Browsing mode,normal
+Provide a way to manage keyword search,normal
+"""Bookmark All Tabs"" doesn't bookmark tabs that were not loaded (titled New Tab)",normal
+nsINavBookmarkObserver.onItemChanged does not allow to know what happened when tags changed,normal
+nsINavBookmarkObserver behaving inconsistently for tags,normal
+"Character encoding in Reader Mode is broken if page content without specified encoding is loaded off network with XHR (rather than using 'guessed' character encoding for existing document) - affects reloads, bookmarks, undo close tab, etc.",normal
+Ensure that default bookmarks aren't duplicated,normal
+Bookmark All Tabs creates bookmarks that have no title and icon for tabs in Reader View mode.,normal
+Wrong bookmarks are being selected when I paste links/bookmarks/folders into existing folder,normal
+Clicking right mouse button on folder's dropmarker chooses wrong target for context menu,normal
+Failed to restore bookmarks from {path} ... UNIQUE constraint failed: moz_keywords.keyword,normal
+"Enable ""usercontext"" on bookmarks",normal
+[tracking] Complete the implementation of chrome.bookmarks,normal
+Allow reading and writing bookmark tags,normal
+[Ubuntu] New Bookmark pop-up is not focused while switching between tabs,normal
+Style editor in Browser Toolbox doesn't list stylesheets if I opened and closed bookmarks sidebar,normal
+Restoring bookmarks while Sync is configured will cause bad things to happen.,normal
+Organize Bookmarks: Drag&Drop works only for single elements (Vista upwards),normal
+BookmarkingUI.uninit should only be called when BookmarkingUI.init was called from _delayedStartup,normal
+"Bookmarking a tab that's loading causes it to have a useless ""loading..."" title instead of the available page title",normal
+Add another more granular bucket for BOOKMARKS_COUNT probe,normal
+UI problems when adding a bookmark in folder in folder,normal
+Add front-end tests for the Downloads View in the Library window,normal
+Hang when displaying Unsorted Bookmarks with 30K+ bookmarks,normal
+"Unlike bookmarks and history, dark themes are incompatible with synced tab sidebar",normal
+Investigate the leak from bug 1250203,normal
+Update visit count / time when accessing page through reader mode,normal
+"Intermittent testBrowserProvider - TestSpecialFolders | All non-special bookmarks and folders were deleted - got 5, expected 6",normal
+"When creating a new bookmark folder, the naming input ""detaches"" and the folder is not created.",normal
+Moving place: bookmark for Bookmarks Menu causes hang and crash,normal
+"Consider doing something with the bookmarks panel ""Remove bookmark"" button",normal
+[UX] Inconsistent sorting icon in history folder / history sidebar,normal
+"[UX] ""Edit this Bookmark"" icon size is incorrect",normal
+[UX] Improve backup bookmark icon,normal
+Implement AS bookmarks / history search activity,normal
+Bookmarks Toolbar appears when moving through the Folder dropdown in the Bookmark panel,normal
+Extend `Bookmarks.fetch` to allow a `parentGuid` without an `index`,normal
+webextension empty pages show up in history,normal
+Create a widget for bookmarks synced from mobile devices,normal
+'Mobile Bookmarks' folder has no header when it's empty,normal
+SplitBox position is wrong with Firefox bookmarks open,normal
+Very difficult to remove a separator from context menu,normal
+"Edges of characters are clipped in Bookmarks Toolbar, after hovering, with lightweight theme that uses text-shadow",normal
+Bookmark validator should ignore title field for default bookmarks.,normal
+Expanded tag box in Library not updated when bookmark selected,normal
+Search keyword adding bugged for rutracker.org,normal
+Implement bookmarks.onChildrenReordered WebExtensions API event,normal
+Many users report unable to restore bookmarks from backups,major
+"location bar autocompletes bookmarked sites when ""suggest bookmarks"" is unchecked",normal
+There is no confirmation dialog after completing bookmark importing/exporting task and when it's still going on during browser shutdown,normal
+Automatically organize Other Bookmarks when there are too many children,normal
+UTF-8 characters wrongly encoded as %u1234 in keyword search bookmark URL,normal
+"QUERY_FIND_EXOTIC_VISITS_TO_EXPIRE has unintended side effect to the ""Remember history"" setting",normal
+Recently bookmarked bookmarks in bookmarks panel don't update when I drop new url,normal
+(e10s-specific) [Hang tab] Bookmarks toolbarbutton creates duplicate bookmarks if content process hangs a bit,normal
+Bookmarks panel displays wrong info if page navigates from one bookmarked url to another (UI is misleading),normal
+Closed tabs w/o favicon only display default favicon in history panel if it was the first visit of the site in session,normal
+"Ctrl+Shift+H opens history, not today history if Library is already open",normal
+Input fields at the bottom of history/bookmarks library aren't in sync with selected item,normal
+"Tags field in ""New bookmark"" panel stays forever focused (illogical behavior)",normal
+Urlbar suggestions don't show some history items (no way to get rid of autofill by deleting suggestions),normal
+Personal (bookmarks) toolbar lacks a keyboard shortcut to show/hide the bar  (ideally same as Chrome),normal
+Syncing large amount of bookmarks takes forever,normal
+"""Page Bookmarked"" panel won't disappear",normal
+history list forgets selection when deleting many elements,normal
+"""Open All in Tabs"" should be unavailable when opening context menu on Recently Bookmarked section header and on other non-bookmark items (in both the main bookmarks menu and the bookmarks toolbar button menu)",normal
+"about:privatebrowsing should mentiong that sync will still run, and sync bookmarks/passwords/etc",normal
+Store and upload tombstones for deleted bookmarks,normal
+"Bookmark keyword field accepts keywords with invalid characters (spaces,colons) but doesn't work - should display an error/prevent them",normal
+Firefox Sync should sync POST_DATA of bookmarks,normal
+Design and implement a better bookmarks API,normal
+Fade instead dots in labels on bookmarks titles,normal
+[meta] Sync sometimes reorders bookmarks,normal
+Edge bookmarks/reading list migration should convert read: Edge reader mode URLs,normal
+Speculatively connect to bookmarked sites on mousedown,normal
+Stop storing a separate title field for all the bookmarks,normal
+Consider running validation only for users with <= 1k local bookmarks,normal
+1.15ms uninterruptible reflow at updateOverflowStatus@chrome://browser/content/places/browserPlacesViews.js:1163:1,normal
+"Stop fetching icons from the Places backend, just make the frontend use page-icon: protocol",normal
+Bookmarked favicons blinking on next bookmarks visit after landing patches from bug #977177,major
+1.0ms uninterruptible reflow at PT__onDragOver@chrome://browser/content/places/browserPlacesViews.js:1600:11,normal
+Showing the bookmarks panel is too slow the first time,normal
+Make multiple bookmarks (or bookmark folders) draggable outbounds from library,normal
+A page using HSTS won't be shown as bookmarked if the bookmark has the unsecure url,normal
+Not all bookmark favicons are displayed after importing bookmarks from HTML,normal
+removing bookmarks from tags list,normal
+Deleting a container should clear history associated to it,normal
+Sync Corrupts Bookmarks,normal
+Impossible to close Bookmarks Properties dialog using [Cancel] if it is open in two windows at the same time,trivial
+"excessive space between "" sidebar icon""  & ""View History sidebar""",normal
+"Update the Bookmarks menu popup to re-append the controller, instead of using listeners",normal
+"Favicon handling - problems with erroneous icon in bookmarks, embedded base64 handling and tab labelling (Nightly)",normal
+bookmark tags icons are reset when clicking a button LoL,normal
+Bookmark toolbar is very slow to render if there are many bookmarks,normal
+INTERMITTENT: Saving bbcamerica.com bbc.com cnn.com and abv.bg to the toolbar sometimes get lost or moved to the bookmarks folder,normal
+Bookmarks sidebar should support showing a single folder,normal
+Clicking bookmark star doesn't always show edit panel,normal
+"Investigate merging ""Bookmarks Menu"" with ""Other Bookmarks""?",normal
+Figure out what do to with canDrop() with respect to sync vs async,normal
+List no default bookmarks at all,normal
+Opening the bookmarks menu can be slow,normal
+It takes time to change the state of the menu Undo (Ctrl+Z) in Library,normal
+Bookmarks panel doesn't refresh when leaving Settings after Sign in with sync completed,normal
+"Sync/Bookmarks: ""Open all in tabs"" loads everything at once",normal
+Bookmarks Panel displayed when refreshing History/Top sites Panel,normal
+There is an entry In the history menu I did not visited a long time ago,normal
+Bookmarks and history opened in a popup window should open in the main browser,normal
+Bookmarks system menu loads icons in a second paint after the menu is displayed.,normal
+Opening a site from the Library > History window replaces one of my open tabs in a different window,normal
+"Library window has invalid ""Visit Counts"" when viewing History list",normal
+The first PlacesUtils.bookmarks.fetch call does main thread IO to initialize the places db connection,normal
+"Update ""Organize"" & ""Views"" & ""Import and Backup"" & ""Search Bookmarks"" & ""Cancel Search Bookmarks"" buttons icons in ""Library"" window to Photon specific ones",normal
+Pressing TAB does not give full-focus to bookmarks list in sidebar,minor
+"When opening ""Bookmark all tabs"" dialog, the folder field flickers - shows one value and then changes",normal
+Bad performance browser.bookmarks.getChildren on folders with subfolders containing many bookmarks,normal
+Inconsistent paste options in context menu when pasting items,minor
+favicons flicker in the bookmarks menu on Mac,normal
+"bookmarks.onChanged ChangeInfo only includes either the url or title, but not both",normal
+The bookmark toolbar drop indicator jumps to the end when dragging to a position immediately between two bookmarks,normal
+Work needed to enable browser.bookmarks.openInTabClosesMenu by default,normal
+Impossible to remove bookmarks as part of Clean Profile,normal
+"Bookmarks...""Open all in tabs"" should provide way to open in container tabs",normal
+Incorrect tab order when opening a bookmarks folder in tabs,normal
+"The ""Bookmarks Toolbar"" option from the customize panel is offset in full screen mode",normal
+"Bookmarks from the Library panel should be moved, not copied",normal
+"Recent bookmarks are not immediately cleared after tapping ""Remove Bookmark"" or ""Remove""",normal
+Remove `_defaultSort` from the bookmarks engine,normal
+Bookmark editor first edit field doesn't get set to tagsField unless the tags field is manually blurred after change,normal
+Auto-migration should auto-show the bookmark toolbar if some bookmarks were imported there,normal
+"browser.bookmarks.update throws error Error: Invalid bookmark: {""guid"":""ppPF1p3gENdk""}",normal
+"Don't show ""Bookmark This Page"" for bookmarks in the remote Mobile Bookmarks folder",normal
+[SUMO User Trending issue] Bookmarks missing after update in 56 encryption change,normal
+Bad window height set when bookmarks toolbar is open with resistfingerprinting option,normal
+Export mobile bookmarks when exporting as HTML,normal
+Consider changing bookmarks.update to apply transactions to multiple bookmarks to aid performance,normal
+"Top Sites settings does not make it clear that ""Recent bookmarks"" and ""Visited"" change Highlights section",normal
+"Move the code that populates the ""Recent Highlights"" section out of panelUI.js",normal
+"Standardize default target folder also for ""Bookmark This Link"" and Bookmark this frame",normal
+Bookmarks created from Reader Mode don't show up in Highlights,normal
+firefox quantum: lost all bookmarks and unable to read backup,normal
+Context and main menus in the library / bookmarks/history manager window don't get extra padding when opened via touch,normal
+Consider where bookmarks are imported to when importing HTML,normal
+Consider progress indication for bookmarks import/export/backup/restore,normal
+Use defineLazyModuleGetters more often with PlacesUtils,normal
+this.node is null PanelMultiView.jsm:140 when closing Bookmarks panel in Library button,normal
+Bookmarks and history sidebars and both address bars don't respect preference to open new tabs in background; they always open tabs in foreground/selected,normal
+PlacesToolbar updateNodesVisibilityTimer should use promiseDocumentFlushed,normal
+"Add automated test for ""The items from the Bookmarks Toolbar can be sorted by name""",normal
+Add a test for DND in Places menus,normal
+"Remove ""tree"" from the Library window and the sidebar",normal
+"Remove ""tree"" from the Edit Bookmark panel",normal
+Remove nsNavBookmarks::GetBookmarkURI,normal
+Remove the non-mirror bookmarks engine,normal
+"Visited Unicode domain names cannot be searched in ""Search History"" in ""Show all history""",normal
+Bookmarks folder can't be set as Start Page,normal
+"Opening ""History"" and ""Bookmarks"" subitems in ""Library"" item causes menu tearing after landing patches from bug #1356317",major
+Create separator on top (instead of middle) after multiple bookmarks are selected,minor
+Recent Highlights ignore browser.tabs.loadBookmarksInTabs,normal
+Investigate if we can remove itemId (aka parentId) from PlacesInsertionPoint,normal
+[meta] Bookmark doorhanger refresh,normal
+Adding an horizontal separator in a new folder from the bookmark toolbar makes the folder unusable,normal
+bookmark position changes,normal
+Bookmarks toolbar user-created button shows (Empty) instead of tagged bookmarks,normal
+"Intermittent browser/components/places/tests/browser/browser_toolbar_overflow.js | The bookmark node should be visible - """" == ""visible"" - JS frame :: chrome://mochitests/content/browser/browser/components/places/tests/browser/browser_toolbar_overflow.js",normal
+browser.tabs.loadBookmarksInTabs doesn't work for smart bookmarks,normal
+Let PlacesCommandHook.bookmarkLink open a doorhanger instead of a modal dialog,normal
+Folder dropdown section is unusable if it’s expanded again right after a New Folder was created inside the “New Bookmark” dialog,S3
+"Bookmark sync never completes, sync icon keeps spinning, bookmarks UI stops functioning and browser hangs at shutdown",normal
+Import Chrome's mobile bookmarks when running migration,normal
+Race condition in opening the bookmarking popup,normal
+Extension menu item in menu on bookmarks toolbar disappears when a submenu is opened,normal
+"Dynamically create the ""sidebar"" <browser> when it's needed",normal
+"Bookmarks Menu icon disappears in toolbar after clicking ""add Bookmarks Menu to toolbar""",normal
+moz-phab is forgetting commit tags and bookmarks,normal
+Bookmark star and confirmation animations are played at the same time,normal
+Unable to delete a tag: Empty array passed for required input property: urls,normal
+Failed to initialize dialog: Error: Cannot use an incomplete node to initialize the edit bookmark panel,normal
+Add search shortcuts for bookmarks and open tabs,normal
+The bookmark vertical separators are very difficult to select on Mac platform,S3
+The new bookmark dialog should use the preview image instead of thumbnail,normal
+Replace nsINavBookmarksService::onItemMoved with bookmark-item-moved,normal
+Remove onItemVisited notification from Places' bookmarks,normal
+Switch to tab does not work for specific links on Bookmarks panel,normal
+"Bookmarks Menu toolbar button has notable delay, depending on the number of bookmark items",normal
+Bookmarks saved for non-secure sites (http) don't show for secure (https) sites,normal
+Fix exception when Bookmarks sidebar is shown and quickly hidden before it finishes loading,normal
+New Bookmark option is available inside Tags from Bookmarks Toolbar and returns an empty dialog box,normal
+browser.bookmarks.create is orders of magnitude slower than on Chromium,normal
+Recent bookmarks cannot be Cut and Pasted,normal
+New folder input field in bookmarks doorhanger is vertically too narrow,normal
+New tab page - pinned sites sync between machines even when history and bookmarks aren't synced,normal
+Bookmark Favicons for some sites do not show unless 'remember history' on.,normal
+check origin of dropped data when it contains Places flavors,normal
+"Don't log ""0 outgoing items pre-reconciliation"" in the new bookmarks engine",normal
+Delete key has no effect on deleting bookmark entry,normal
+Consider building the about:library content page,normal
+History entries opened in new tabs should stay in the current container,normal
+bookmarks.onRemoved event arguments have incorrect values,normal
+Problem with 'index' property of bookmarks while creating new bookmarks using Firefox WebExtensions API,normal
+"Top Sites is displayed instead of Bookmarks, when returning from Recent Apps",normal
+Sync just removed all the keywords for my search-keyword bookmarks,normal
+Bookmark with invalid URL prevents any bookmarks from syncing,normal
+Entering Bookmark tags is unresponsive,normal
+"The Top sites , Bookmarks & History are not centered correctly on high resolution devices",normal
+Library sorts by Location on sorting by Name on unnamed bookmarks,normal
+Bookmark views don't immediately remove bookmarks with invalid urls,normal
+Consider storing the bookmarks mirror as a JSON file instead of a SQLite DB,normal
+Focus does not remain on a bookmark that's moved inside bookmark manager (library or sidebar),normal
+Container escape by wheelclick/ctrl+click on bookmarklet with javascript:document.location,normal
+Crash in [@ AsyncShutdownTimeout | Places Clients shutdown | SyncedBookmarksMirror: finalize],normal
+Fix handling of duplicate and missing child GUIDs in the bookmarks mirror,normal
+"Unexpected autofilled entries for ""place:"" and ""about:"" bookmarked uris",normal
+Return bookmark paths in PlacesUtils.bookmarks.fetch,normal
+bookmarks.search() doesn't work for a query string containing URLencoded chars,normal
+Bookmarks & History: extremely slow back/forward navigation,normal
+"URL is not displayed in status bar when hovering over bookmarks in bookmarks menu, but it is OK when hovering over bookmarks located in a folder within bookmarks menu.",S3
+Redesign the history views,normal
+Bookmarks menu incorrectly sized on some secondary display topologies,normal
+Bookmarks folder name doesn't match with the list after renaming it,normal
+Dragging a folder shortcut on the toolbar duplicates the shortcut,normal
+Ctrl-Shift-Z in bookmarks sidebar opens debugger instead of redoing changes,normal
+Syntax errors in `SyncedBookmarksMirror.jsm` due to on-disk corruption,normal
+Bookmarks search - unsorted results order,normal
+Bookmarks should ignore refs/anchors,normal
+‌[macOS] Improve visibility of the separators on bookmarks toolbar when in dark theme,normal
+The New folder input field is overextended if previously a long title one was created,normal
+Implement the |bookmarks| API,normal
+Pasted URLs Do Not Show Until Folder is Revisited,S3
+Fix the vertical alignment of the bookmarks toolbar drag&drop indicator,S4
+endless loop with a nested Unfiled Bookmarks shortcut,S3
+Tags removed by API call bookmarks.update() when changing URL,S3
+Issue with drag & drop a tab,S3
+Investigate importing Edgium's collections as bookmarks,S3
+Only update the bookmark menu labels when menu panel is shown to avoid busy-work,S3
+Open options from the context menu doesn't dismiss the bookmarks doorhanger in some cases,S3
+Go to download page option active in Library for some downloaded files,normal
+Up and down arrows displayed in Bookmarks menu even when it is impossible to scroll,minor
+"Not possible to remove ""Home"" text label from the new Home icon on bookmarks toolbar",normal
+Certain icons disappear in Bookmarks Toolbar when no browser window is focused,normal
+Changed Tag name doesn't sync,normal
+Better handling of conflicting records,normal
+"Show new types of bookmarks (separator, livemark, and query) where applicable",normal
+"UITour: showMenu(""bookmarks"") opens the submenu instead of the subview in the menu panel",normal
+The search panel appears above the bookmarks panel,normal
+"Add ""View Pocket List"" to bookmarks sidebar?",normal
+Update the bookmarks menu button panel/menu to match photon styling better,trivial
+Bookmarks and History subview scrollbar flickers(width changes) while scrolling by mouse,normal
+Make bookmarks toolbar items blend in better in the overflow panel,normal
+Animation for when bookmarks are removed,normal
+Icon of bookmarks toolbar dropzone has no vertical margin,normal
+Optimize Bookmarks menu for touch,normal
+Optimize Bookmarks Toolbar folder menus for touch,normal
+Optimize bookmarks toolbar overflow menu for touch,normal
+Add the keyboard shortcut affordance for bookmarks to the PAM,normal
+Policy for Deleting Bookmarks,normal
+Make keyword bookmarks create new engine,S3
+Migrate existing keyword bookmarks,S3
+Export bookmarks and history,normal
+Bookmarks menu missing when the Bookmarks window has focus,minor
+Location bar autocomplete should include / prefer bookmarked URLs and names of bookmarks,normal
+Come up with a better way to disable JS and data urls in history,normal
+"if a bookmark fails to load, try to find a previous redirect target for it in history",normal
+Search/find won't find text in the Description column,normal
+Option for Bookmarks Merge on Import,normal
+support inline editing of bookmark values,normal
+"""A > Z Sort Order"" label is confusing",normal
+paste menu item is disabled but I can still paste,normal
+should be able to rename bookmark items with pressing F2,normal
+make sorting changes in places/library (session) persistent,minor
+Availability to use different column sets for special folders in Library,normal
+when sorting by name in the Library put folders before bookmarks,normal
+Favicons are not affected by a hard refresh,normal
+Support diagonal dragging through bookmarks menus (was:Bookmarks submenu is closed immediately during dragging),normal
+Add bookmark dialog: Two folders/directories with same name not distinguishable in quick list,normal
+No tooltip for folders on bookmark toolbar,normal
+Add a folder column to search results for bookmarks in the library,normal
+"Add ""Open Enclosing Folder"" context menu to search results of bookmarks in the Library window (link to view/open containing folder, parent folder button)",normal
+Dragging a folder from the Library to browser content or location bar results in strange effects,normal
+"New Places queries (aka smart folders, aka smart bookmarks) don't take effect until new window / restart",major
+"""Bookmark this paragraph"", remembering scroll position",normal
+History By Date is not *really* By Date,normal
+Star Panel Folder Drop Down List is to Narrow to Completely Display Bookmarks Toolbar and Unsorted Bookmarks (truncated),normal
+Bookmark details persist during search,normal
+Support canonical URL with one-click bookmarking,normal
+[Mac] No context menu for bookmarks from native menubar,normal
+Dragging & dropping bookmarks into nautilus doesn't work,normal
+Pass in parentId if we have it to avoid extra db lookups,normal
+(Option to) always sort by name,normal
+Bookmarking long URLs (/javascript) are truncated without warning,normal
+"Move ""View Bookmarks Toolbar"" to the Bookmarks Toolbar sub-menu",normal
+Unable to drop bookmarks onto folder in right panel if a column is sorted,normal
+Double clicking in an empty area in the Bookmarks Library loads the selected bookmark,normal
+query folders dragged from bookmarks toolbar overflow to visible toolbar get borked,normal
+Clicking a bookmark from the bookmarks toolbar WHILE opening a new tab will change to the bookmarked site without being able to return to the originally targeted site ('Go back one page' button is greyed out).,minor
+Bookmarks are added at the beginning of the list after performing sync,normal
+Remove workarounds for bug 803255 once it's fixed,normal
+[meta] Incremental two-phase bookmark sync for Android Sync,normal
+Provide search functionality over bookmarks and their folders (from the bookmarks menu),normal
+[Mac] Missing icons of Bookmarks Menu and Submenu when no windows opened (or library window is selected),trivial
+make bookmarks toolbar the bookmark menu to simplify things like chrome,normal
+'Illegal value' when calling method: [nsISessionStore::getClosedTabCount] when clicking History menu,trivial
+bookmarks menu has too many separators,normal
+Middle & right click in the bookmarks menu gives same result as left click,normal
+Empty Show More Bookmarks Arrow on Toolbar cutting off Bookmarks,minor
+favicon doesn't show up when a version is given in the url,normal
+PlacesUtils.bookmarks is undefined when syncing,normal
+Error decrypting record: No ciphertext: nothing to decrypt?,normal
+"In bookmarks menu, no items can be dragged between 2 separators with nothing between them",normal
+(Half-)Automatic updating of bookmark properties if website changes url,normal
+remember sort order in history window,normal
+[Linux] History  panel is not completely displayed after successive clicking on the history button.,normal
+No way to sort bookmarks listed under tags,normal
+Bookmark folder contents won't show up if their title is too long when looking in bookmark menus,normal
+Bookmarks Menu collapses when collapsing a bookmark folder,normal
+new bookmark loading tab does not grab URL,normal
+Do not add default bookmarks for Marketplace and AMO in guest profiles,normal
+[meta]Remove synchronous bookmarks API,normal
+[UX] Design Spike: Incorporating a global history into Firefox,normal
+New bookmarks sometimes go to the bottom of the list,normal
+Selected menu item loses highlight,normal
+"when i search history, i want to see the websites around it",normal
+Addresses that resolve to a 301 should have their address updated to reflect new location,normal
+We want a better bookmark manager!,normal
+"Entry ""Open All in Tabs"" doesn't appear immediately once a folder gets 2 entries by dragging an item into it (requires closing and reopening the subfolder)",normal
+Visit Count functionality is broken,normal
+URLs are percent-encoded and therefore do not match bookmarked URLs. Pages are also bookmarked with percent-encoded URLs.,normal
+Consider re-enabling title-editing for folder shortcuts,normal
+Firefox Sync mixes up sort order of bookmarks in Unsorted Bookmarks folder,normal
+History sidebar: show visit date in tooltip,normal
+Make bookmark UI work with full-page plugins,normal
+Firefox does not warn when importing bookmark file that has bookmarklets,normal
+Opening the context menu for a bookmark folder while another has still its submenu open does close the context menu,normal
+"Bookmarks with about:reader locations are not shown at all in the ""Most Visited"" smart folder",normal
+Submenu gets borked after all bookmarks in it are deleted,minor
+"Context menu entry ""Sort By Name"" should be greyed out on folders with less than 2 bookmarks",minor
+Right Click -> 'Bookmark All Tabs' shouldn't bookmark about:newtab pages,normal
+Crash Bookmarks Menu: Script: chrome://browser/content/places/browserPlacesViews.js:271,normal
+Copy & paste (or drag & drop) Bookmarks folder will fail between 2 instances of browser (aka profiles),normal
+"""Import bookmarks and history"" should be disabled or warn if no data is available",normal
+Opening the context menu on a bookmark does not cause the link on the bottom to vanish,normal
+Broken folder tree in edit this bookmark menu,normal
+Bookmarking a URL that redirects to something else results in a null bookmark,normal
+[meta] Migrate reading list to bookmarks,normal
+Open and delete bookmarks by ID instead of by URL when possible.,normal
+Smart keyword bookmark created without favicon,minor
+"Since very last update to 43.0.4 bookmarks display goes back to top after print preview of a selected bookmark, and the bookmark is no longer highlighted.",normal
+Add sorting capability to bookmarks,normal
+"Create a ""Recent bookmarks"" smart folder",normal
+Add favicons to BookmarkScreenshotRow,normal
+Right click and left click have the same behavior  when you use them on a bookmark site,normal
+"When downloading a specific file, screenshots are added to bookmarks",normal
+improve asian language support in bookmarks/history query and search results,normal
+Consider adding bookmarks API method to get ID of standard/common folders,normal
+Contextual hint about offline bookmarks is not displayed,normal
+[meta] Make all bookmarks syncable,normal
+Incremental sync follow up: database-backed bookmarks buffer,normal
+"Add domains table, with domain_id FK in history/bookmarks (and combined)",normal
+[meta] Speed and performance of importing bookmarks from JSON or HTML files is awful,major
+fillBHTooltip should crop title and do better about determining whether title / url are different (maybe only for recently closed tabs),normal
+"Bookmarks panel: extra button ""Open All in Tabs"" appears in bookmarks folders after switching to Customize",normal
+Bookmarks sidebar scrolls up by 1 item after drag and drop of any item,normal
+Cancel button doesn't work if I create new bookmark in more than 1 window,normal
+It's possible to accidentally close wrong bookmarks folder by clicking on folder's dropmarker,normal
+Fennec Bookmark Management: Allow users to delete multiple bookmarks and folders at once,normal
+Fennec Bookmark Management: Allow users to move multiple bookmarks and folders from within 1 folder to 1 other folder,normal
+Pressing Ctrl+D (Bookmark page) too quickly after Undo Close Tab causes prompt to add about:blank to favorites,minor
+Implement bookmarks on Android,normal
+Issues with bookmarks added via Context Menu,normal
+Contextual hint about offline bookmarks for bookmarked pages,normal
+"about:home with focus on ""Bookmarks"" panel after adding a page to reading list",normal
+Favicon is not displaying in Bookmarks Toolbar (MacOS),normal
+Dragging Bookmark Folders in Bookmark toolbar is difficult and undiscoverable,normal
+Keep bookmarks order consistent between different platforms,normal
+Crash in  [@ java.lang.IllegalArgumentException: at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java)],critical
+command/control clicking a bookmark folder opens the folder and the tabs,normal
+Dropping bookmarks folder to Tab Bar to open all bookmarks from folder is broken,major
+"History, Bookmarks and Open tabs checkbox buttons in privacy settings can be selected/deselected just by clicking adjacent to the checkbox field.",major
+Don't validate bookmarks on android if telemetry is off,normal
+Intermittent browser/components/migration/tests/unit/test_IE_bookmarks.js |  - Got all the expected parents - 1 == 0,normal
+Inconsistency menupopup scroll UI between Bookmarks toolbutton and history toolbutton,normal
+Position misplacement of bookmarks menu,normal
+Ctrl-Enter on bookmark item should leave menu open if browser.bookmarks.openInTabClosesMenu set to false,normal
+"The menu item ""Bookmarks"" opens a window named ""Library"" - what?",normal
+Inconsistent pull down menu alignment between bookmarks folder and chevron. And pull down menu of bookmarks folder is too close to the its folder,trivial
+[meta] Improve performance of bookmarks batch operations with Async Transactions,major
+"Allow quickly locating a Bookmark Toolbar item in the ""Library"" - FF57 prevents doing this via extension",normal
+The history and bookmarks expand/collapse buttons are heavy responsive,normal
+"The arrow next to the ""Bookmarks"" text is slightly moved when the sidebar is resized",normal
+The 'star drop' animation should be applied to the 'bookmarks menu button' instead of or in addition to the 'library button' if 'bookmarks menu button' is added to the toolbar,normal
+Bookmarks toolbar reorder should behave like tab reorder,normal
+Bookmark Manager Location Column URL Sort is Simply Alphabetical,normal
+More bookmarks >> chevron shows empty 1x1 pixel menu when Bookmarks Toolbar Items is on the navigation toolbar,normal
+Provide preference to change default folder for saving bookmarks,normal
+Add option for the size of labels in bookmark toolbar,normal
+sidebar ignores first click when window not in focus,normal
+bookmarks.search()  treats an empty title string as if it were undefined,normal
+browser.tabs.loadBookmarksInTabs setting should be an option in FF general options and not only in about:config,normal
+[meta] Add automated tests for Bookmarks functionality,normal
+Provide a better history UI,normal
+Firefox duplicate bookmarks from distribution.ini on version upgrade,normal
+Allow 2 rows of bookmarks in bookmark toolbar,normal
+Add mouse-over to show properties of bookmark/bookmark folder in bookmark toolbar,normal
+Add option to update bookmarks in background,normal
+add a bookmarks.show() function to focus a bookmark in the UI,normal
+Bookmarks and Addons bar are moved under Overflow Menu after removing multiple newly created bookmarks in a row.,normal
+browser.tabs.loadBookmarksInTabs: Bookmark context menu has wrong default item,trivial
+collapse in bookmarks sidebar may cause unexpected folder expanded/collapsed,normal
+"Add option to create new bookmark folder in library using ""Ctrl+Shift+N""",normal
+Favicons do not initially appear on tabs after refreshing profile,normal
+[Intermitent] If a bookmarked is changed into a specific website the bookmark icon is not highlighted.,normal
+Request to hide favicons on bookmarks bar to save space,normal
+Back button of library doesn't re-select the selected bookmark / revert scroll position,normal
+Star panel - Recent folders repeat themselves if bookmark star is clicked multiple times before it appears.,normal
+Allow the star panel to select the last used folder when bookmarking,normal
+[meta] Synced bookmarks mirror simplifications,normal
+Library Back button takes time to go back with lots of bookmarks,normal
+Bookmark via URL drag & drop onto the Bookmarks Toolbar doesn't work in the bottom of the section,normal
+The highlight line does not disappear when dragging&dropping websites into bookmarks sidebar,normal
+Blue border is on the [Done] button and [Remove Bookmark] button,trivial
+"Extra menu border is rendered to ""Show your bookmarks"" toolbar button menu",minor
+Library provides no feedback that a batch bookmark move is in progress,normal
+Library does not enforce proper sequencing of cursor and delete key reactions,normal
+Show star icon for the top search result from bookmarks when typing into the address bar,normal
+add contextMenu.create() context for bookmarks folders in toolbar,normal
+Timeout for bookmark popup too short if using mousekeys,normal
+"On the history window, search field can be truncated",normal
+[meta] Remove nsNavBookmarks.cpp and merge with nsNavHistory / Bookmarks.jsm,normal
+Allow searching for bookmarks only within a specific folder,normal
+Search drop-down list is mixed up if the user has less than five bookmarks,minor
+"Add icons to ""View/Hide Bookmarks Toolbar"" and ""View/Hide Bookmarks Sidebar"" items",normal
+Intermittent browser/components/places/tests/browser/browser_click_bookmarks_on_toolbar.js | Found node on toolbar - null != null - JS frame :: chrome://mochitests/content/browser/browser/components/places/tests/browser/browser_click_bookmarks_on_toolbar.,normal
+Bookmark context menu open from right-click on bottom of bookmark sidebar or library,normal
+(disabled)Intermittent browser_sidebarpanels_click.js | Test timed out followed by thousands of other errors,normal
+Bookmark's tags in the Library Tags column are sorted dissonantly,normal
+bookmarks overflow icon placed on toolbar after resolution change,minor
+Show suggestions from the history of previously entered tags when clicking on the Tags field in the bookmark star (Ctrl+D) floating window,normal
+Navigating away from a bookmarked about:newtab causes the bookmark page action icon to flash blue,normal
+Frecency recalculation query in bookmarks mirror takes over 6 seconds,normal
+"""Library"" window lacks 'smooth scrolling' when you use a mouse wheel",normal
+The bookmarks bar is not recalculated after installing an extension,normal
+Selection of text in bookmarks in New Bookmarks' Name field offset,normal
+New Bookmark Panel/Edit Bookmark Panel  is cut off for some screen resolutions/dpi ratios when expand folder pane and tags pane,normal
+"Suddenly, The position of the scroll arrow drastically shifts when mouse down and hold on scroll down arrow of scrollbar of library right side pane",normal
+favicon mismatch with tab icon and bookmark icon,normal
+Not reusing blank tab when opening a few bookmarks at once,normal
+Select content search field in bookmarks library after keyboard shortcut,minor
+It should be possible to create a bookmark that remembers the container used for it,normal
+[Ubuntu] The columns inside Library don’t properly re-adjust after new ones are enabled,minor
+Auto-fetching favicons in bookmarks toolbar,normal
+"Bookmarks library menu should have ""import and backup tools"" as a menu entry",normal
+focus does not go to filtered bookmark list from filter input field with TAB in the bookmarks sidebar,normal
+"The thumbnails from top sites, bookmarks and history panels are not displayed anymore after accessing ""https://m.size.co.uk""",normal
+Right clicking Properties on “Bookmarks Toolbar” or  “Other Bookmarks” from Bookmarks Menu opens a empty dialog box,normal
+"Intermittent TV tier 2 browser/components/places/tests/chrome/test_treeview_date.xhtml,test_treeview_date.xul | Date format is correct - got ""2/21/19, 12:00 AM"", expected ""12:00 AM""",normal
+History should show which devices accessed each URL.,normal
+[::1] favicon doesn't show up in bookmarks,normal
+windows/aarch64 - browser/components/places/tests/chrome/test_bug1163447_selectItems_through_shortcut.xul | uncaught exception - NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE),normal
+updating the priority of a bookmark in Bookmarks menu,normal
+Bookmark properties should show folder location,normal
+Bookmarks items context menu shares general Delete entry and access key,normal
+Edit bookmark button is not functional in pdf presentation mode,normal
+Within tag substring matching is no longer working,normal
+Should be able to open bookmarks/history into specific containers,normal
+"""Undo""/""Redo"" for Bookmarks is not discoverable",minor
+Bookmarks toolbar menu closing doesn't behave like other menus,normal
+Allow searching for history by selected time slot,normal
+Deleting large amount of bookmarks and folders hangs/locks/freezes Mozilla Firefox completely for some time,major
+Folder shortcuts should have some kind of indicator on the icon that they are symlinks,critical
+[macOS] Bookmarks context menu options disabled after deleting a bookmark and swapping between windows,normal
+Impossible to add bookmarks into existing folder,major
+"Hide/Omit also shown ""www."" in ""Name"" column in Library in unnamed bookmarks",normal
+Bookmark dropdown  - creating multiple New folders pushes tree out of bounds,minor
+Content of about:downloads/Downloads in Library flickers/blinks/flashes on scrolling,normal
+Intermittent browser/base/content/test/tabs/browser_multiselect_tabs_drag_to_bookmarks_toolbar.js | Uncaught exception - waiting for 2 bookmarks - timed out after 50 tries.,normal
+Bookmarked Google Maps's favicon uses Google's default one instead,normal
+Bookmarks manager: sorting order lost when switching folder,normal
+Bookmarks favicons may be expired in some cases,critical
+Last item of Bookmark drop down list inaccessible,normal
+"Misleading error message ""The bookmarks and history system will not be functional""",normal
+Restoring bookmarks may use a lot of memory if history limits are removed,normal
+Can’t use MacOS emoji picker when editing bookmark via URL bar star icon,normal
+"""Add Bookmark"" dialog resizes inconsistently when expanding/collapsing the tag selector",normal
+Add last visited time to history entries tooltip in the sidebar,normal
+Increase the height of the Bookmarksbar - Looks a bit squeezed compared to Tabstrip or Toolbar,normal
+The Favicons on the Bookmarks Bar flicker when starting Firefox or opening a new Window,normal
+browser.bookmarks.autoExportHTML = true doesn't work,normal
+Feature request: put most recently created folder at the top of the list when adding a new bookmark.,normal
+ubuntu1804 - browser/base/content/test/tabs/browser_multiselect_tabs_drag_to_bookmarks_toolbar.js | Found an unexpected browser window at the end of test run -,normal
+make possible to keep or automatically archive old history,normal
+Autofill for bookmarks in adressbar lost bookmark-star and bookmark-name,normal
+Bookmarks window unusable on small/moderate screens with larger fonts,normal
+The site preview is not displayed the bookmark is made via context meniu,normal
+New bookmarks engine should use watchdogs when storing records in the mirror,normal
+WebExtension bookmarks context menu in library window has some bugs,S4
+IDN homograph domain bookmark should use homograph as location instead of punny code,S4
+Dragging middle mouse button over history items opens an invalid tab,S3
+Intermittent TV browser/components/places/tests/browser/browser_enable_toolbar_sidebar.js | uncaught exception - ReferenceError: PlacesUIUtils is not defined at onunload@chrome://browser/content/places/bookmarksSidebar.xhtml:1:1,normal
+Intermittent TV browser/components/places/tests/browser/browser_toolbar_library_downloads.js | Test timed out -,normal
+Intermittent browser/components/places/tests/browser/browser_bookmark_menu_ctrl_click.js | application terminated with exit code -6,normal
+Edit This Bookmark pop-up sometimes appears in the wrong place,S4
+Clicking enter to select a folder in the folder picker doesn't close the picker,S3
+Improve the “The bookmarks and history system will not be functional because one of Firefox's files is in use by another application.” message,S4
+Address bar does not display all bookmarks for a given tag,S4
+Intermittent browser/components/places/tests/browser/browser_addBookmarkForFrame.js | Test timed out -,normal
+Star panel is not resizable,normal
+Localized default bookmarks bust the build with ' in the bookmarks names,normal
+make history timestamps accurate to within 1 second,normal
+Seamonkey should support spotlight search for bookmarks,normal
+bookmarks in full screen,normal
+Mail headers or bookmarks are not displayed with the fonts specified for the corresponding language,normal
+non-ASCII characters should be decoded in the Bookmarks dialogs,normal
+Add automated test to verify Bookmarks Menu Panel options,normal
+Automatically update bookmarks when sites move/disappear.,normal
+Expand selected sub-tree into higher level (Explode folder),normal
+scrolling menus aren't ideal for large bookmarks lists,normal
+Hide last Bookmarks menuseparator if user deletes all bookmarks,trivial
+Need UI for importing IE Favorites bookmarks,normal
+Clicking on a history sidebar column header three times should sort by newest first,normal
+Sorting should treat bookmarks separated by separators as different groups,normal
+different icons for bookmarklets and normal bookmarks,normal
+Arrows not disappearing when reaching the top or bottom of a scrollable menu (eg bookmarks),normal
+history sidebar:  pages that set the title dynamically need to change order,normal
+Add/File/Manage bookmark should be fixed while bookmarks scroll,normal
+expand/collapse all bookmarks,normal
+"should be able to drag bookmark folder to desktop to create folder containing .url files, and vice versa",normal
+Dialog listing all custom keywords with ability to manage them.,normal
+"different icon per protocol (eg urlbar, bookmarks) for pages that don't have a favorite icon",normal
+Favicons for folders,normal
+Find  can't find folders,normal
+bookmark menu saved scroll position not reset for deleted bookmarks,normal
+favicon for 304 redirects dont' work in bookmarks,normal
+Custom keywords should support multiple substitutions (w/ code),normal
+Scroll Arrows inside Bookmarks menu are blurry in Modern,minor
+username/password dialog when having favicons from password protected sites in bookmarks,normal
+"(partially fixed) Ctrl+Ins, Shift+Del and Shift+Ins don't work in Bookmarks Manager (copy, cut, paste)",normal
+File Bookmarks dialog needs a help button,normal
+Ability to sort Filters into Folders (like with Bookmarks),normal
+"When offline, bookmark entries should reflect status in cache.",normal
+No visual confirmation saving a bookmark (Ctrl+Shift+D),normal
+Bookmarks should not save password in URL,normal
+Bookmark keywords not supported at the command line,normal
+Add a Bookmarks Toolbar or set bookmark root as `Personal Toolbar Folder'.,normal
+Problem when Home/End keys are pressed while mouse is over a submenu (also for Bookmarks),normal
+bookmarks tab not being added to my sidebar,major
+manage bookmarks disappears from menu if the list is long,normal
+xp focus behavior inconsistent on open from manage bookmarks,minor
+Bookmark Manager buttons don't work when focus is in Search box,normal
+Can't replace the home page group by D&D of single page,normal
+Drag and drop of group of tabs bookmark from sidebar or menu doesn't load bookmark,minor
+"Allow ""File Bookmark"" to select and replace a bookmark",normal
+Control-scroll mouse should resize fonts in about:config and bookmarks manager,normal
+Contextual menu item to create bookmark or copy link to any HTML element with id or name attribute,normal
+add bookmarks to location textbox look ahead,normal
+Modifying bookmarks fails silently if bookmarks file is not writable,normal
+Option to name a bookmark before creation by drag-n-drop of a url,normal
+opening a chatzilla bookmark while a page is loading in the current tab stops the loading,minor
+keyboard shortcut to 'Bookmark this group of tabs',normal
+"Context menu: ""File Bookmark using selected text as Name...""",normal
+Bookmarking URL javascript: via File Bookmark or Drag and Drop to Personal Toolbar doesn't work,trivial
+drag and drop to a Bookmarks window might fail or be difficult if dropped below the end of list,normal
+Personal Toolbar hides too many bookmarks at right [multizilla},normal
+Preserve sort order when migrating bookmarks from IE,normal
+%s in keyword replacements encodes special characters as URL instead of as POST,minor
+LDAP:// URLs do not bookmark,normal
+wyciwyc added to bookmarked url,normal
+"BFT: ""Select new tabs opened from bookmarks or history"" option does not exist any more [Firefox new Options window]",minor
+"Add UI for the ""browser.tabs.loadBookmarksInBackground"" pref (select new tabs opened from bookmarks)",trivial
+channel and server joins missing from history,normal
+Allow user to sort selected bookmarks,normal
+trunk template builder incorrectly processes non-Places bookmarks template,normal
+CTRL+D opens file bookmark dialog instead of directly adding the bookmark,normal
+Make Bookmarks Toolbar have the same overflow functions as the Tab Bar,normal
+Tab reflow / bookmarks toolbar could be a little smoother when resizing,normal
+Vertical position of bookmarks items change when hovering the mouse over them,trivial
+Bookmarks toolbar: clicking button while popup menu still open fails to register as click on button,minor
+"when migrating from IE, don't import default IE bookmarks if we can determine that the user hasn't used IE (or IE's bookmarks?)",normal
+"Sidebars (history, bookmarks) should not have maximum width",minor
+Item spacing increases in bookmark menu,minor
+Use a url bar feed icon without dropmarker,normal
+custom buttons in the bookmarks toolbar shouldn't make the bar taller,normal
+Drag/dropping bookmarks from Bookmarks Toolbar drop-down menu to Bookmarks Toolbar duplicates bookmark temporary,minor
+Dragging Mouse while in a Scrolled Folder in the Bookmarks Bar Opens the Wrong Folder,normal
+"chevron overflow menu on the bookmarks toolbar doesn't go to the edge of the screen, making it disappear when trying to drag and drop something along the screen edge",minor
+Sidebar state (Bookmarks/History) not saved on shutdown.,normal
+manually-specified charset from bookmarks should override the HTTP header charset,normal
+Arrows in bookmarks menu are no longer vertically aligned after landing of bug 433109,trivial
+browser.tabs.loadInBackground and browser.tabs.loadBookmarksInBackground could be one pref,normal
+"Drop down arrows in the bookmarks toolbar are native, but they appear too large for the toolbar size",normal
+Port Personal Toolbar dropmarker to SeaMonkey from Firefox,minor
+Assign special icons for different bookmarks schemes,normal
+Bookmarks toolbar items don't load on startup,normal
+Create consistent padding on all sides/margins of the contextual bookmarks dialog/panel,normal
+Bookmarks toolbar expands 1 px when Menu Bar is set to show,trivial
+"With menu bar hidden, can not drag and drop to Bookmarks menu.",normal
+"When opening multiple tabs, the 'loadBookmarksInBackground' pref is ignored",normal
+"Be consistent with ""Clear"" buttons in History pref panel",normal
+Chekbox state of Bookmarks toolbar should not be able to change in the case of the window where a toolbar cannot be open or shut,minor
+Import of IE bookmarks have .URL extension,normal
+"When the Bookmarks Toolbar is moved to the Menu line, its original space is left blank",minor
+"If you place a large number of bookmarks in a folder, then go to Bookmarks ▸ (folder name) ▸ ""open all in tabs,"" sometimes they won't open.",minor
+"toolbar items, including bookmarks toolbar and add-on buttons, placed on auto-hide menubar do not work.",normal
+Bookmarks toolbar 'moves' out of the screen.,normal
+SeaMonkey missing a rule to always make icons show in Go/History menus on Ubuntu: port bug 508221,normal
+Adjust help for changes with places bookmarks landing,normal
+Adjust Bookmarks Button styling and icons to match mockups,normal
+Long scrolled Bookmarks menu scroll-up a line immediately when mouse move to dropdown after open the menu,normal
+Bookmarks toolbar should be above tabs with tabs on top,normal
+Internationalized URLs are stored incorrectly,normal
+Put items for search scopes into menu to expose command keys,normal
+"Replace term ""Personal Toolbar"" by ""Bookmarks Toolbar"" in Help",normal
+bookmarks toolbar should be above navigation bar if tabs on top is true,normal
+full screen mode (F11): Menu Bar and Bookmarks Toolbar are not visible,normal
+"empty list ""Show more bookmarks"" appears with ""Bookmarks Toolbar Items"" in Navigation Bar",minor
+Differentiate between 'Bookmarks Menu' and 'Bookmarks' in the Customize Dialog,normal
+Tag auto-completion in tag edit field of bookmark works only for first tag,normal
+Bookmarks property changes do not sync,normal
+Dragged out tabs trigger Bookmarks drop down menu outside their native profile,normal
+Bookmarks menu button always shows text when on bookmarks toolbar,normal
+Style the bookmarks arrow panel,normal
+Profile migration per -migration doesn't migrate bookmarks,normal
+"History, Bookmarks menus too wide because of pages with long titles",normal
+Bookmark sync: use SQL for all read operations,normal
+custom toolbars should be positioned immediately below bookmarks toolbar,normal
+Having the bookmarks sidebar open affects speed of web page rendering,normal
+"Theme-inconsistent, blue background highlight when bookmarks are moved into a subfolder in bookmarks toolbar",normal
+Right-click on bookmarks in folders not possible anymore on Mac,normal
+using the middle-click in history when multiple items selected no longer works in 2.0.10,minor
+tab detach failed and insertion mark got stuck on bookmarks toolbar,normal
+Bookmarks Toolbar Items near-invisible in Menu Bar with Ubuntu Radiance Gnome theme,normal
+New storage format for place: queries,normal
+"The text ""Show all bookmarks"" in Firefox menu is misleading",normal
+Dragging bookmarks onto a folder on bookmarks toolbar causes folder to temporarily lose radii,normal
+Accesskey (Alt+S) for search field in Bookmarks sidebar blocks opening the History menu,normal
+Font/spacing change in Bookmarks Toolbar,normal
+Port browser parts of |Bug 631374 - Adding or removing tags in the selector listbox always scrolls to top| to SeaMonkey,normal
+[meta] Platform improvements that affect Sync,normal
+Replacing existing tabs when opening bookmark group/folder doesn't work,normal
+History window isn't updated when entry is deleted,normal
+Firefox updates bookmarks favicons while In Private Browsing.,normal
+"Bookmarks should ""Switch to Tab"" for app tabs",normal
+"Show""bookmark all tabs"" in bookmarks menu if navigated to via ""firefox"" button or menu bar",normal
+[Mac] Pulldown bookmarks menus change translucency while scrolling,minor
+Bookmarks menu dropdown doesn't tidy up task bar,normal
+"Add Lion Toolbar Texture to Tabs, NavBar, BookmarksBar and Additional Toolbars",normal
+about:blank tabs not overwritten when opening multiple bookmarks,normal
+bookmarks in toolbar disappear after being crowded out by tabs,normal
+Adding device re-ordered bookmarks toolbar,normal
+Bookmarks Notify schedule feature are lost,normal
+Bookmarks toolbar reordering caret doesn't disappear,normal
+"Port ""Time range to clear"" from Firefox to SeaMonkey's ""Clear private data"" dialog",normal
+"middle-click bookmark loads in current empty tab, even if another site is already loading in that tab",normal
+Text urls that don't have the leading protocol should be draggable to the bookmarks toolbar,normal
+bookmarks menu malfunctions with 'focus follows mouse',normal
+Bookmarks separators lost their labels,normal
+"New Bookmark Default Folder Should Be ""Unsorted Bookmarks""",normal
+Add F2 shortcut for bookmark/folder renaming to Bookmarks Manager,normal
+Highlighted item in Bookmarks submenu can come decoupled with mouse position.,normal
+Bookmark separator expands the bookmarks toolbar size by a noticiable amount of pixels,normal
+[Bookmarks Library] signal name `selection_changed' is invalid for instance `xxxxxxxx`,normal
+Cmd click modifier doesn't work in history and bookmarks menus,normal
+"[SeaMonkey] ""ASSERTION: aIndex is out of range: 'aIndex &lt; mLength' ... xul!nsSHistory::EvictOutOfRangeContentViewers"" in tests, 1 chrome and 23 browser-chrome",major
+The History and Bookmarks sidebars are still styled in the Firefox 3.x theme,normal
+The tabs bar items are not displayed right when the Bookmarks toolbar is placed next to it,normal
+The user cannot disable the Bookmarks toolbar after moving it to a custom location,normal
+History's group by day show some entries in wrong groups.,normal
+Imported stock bookmarks that are removed actually are still in DB,normal
+Allow bookmarks/history on sdcard,normal
+Generalize code for startup open folder in awesomescreen's bookmarks tab,normal
+Default highlighting in Dialog Box when Filing Bookmark or Group of Bookmarks is faulty or awkward.,normal
+Bookmarks toolbar sometimes gets stuck scrolling down in a folder,normal
+"Just lost my bookmarks, despite still being synced w/ desktop Firefox",normal
+"Session bookmarking (""Bookmark this group of tab"") omits repeated entries",normal
+Clicking back takes two taps in AwesomeScreen bookmarks on HW keyboard,normal
+Firefox Sync duplicating and scrambling bookmarks & folders,major
+[meta] Bookmarks sync reliability issues,normal
+Windows version does not import *all* bookmarks/settings from IE,normal
+Add UI to clear all Top Sites and all Bookmarks,normal
+[Robocop] Tests for distribution bookmarks,normal
+Glitches when hovering over Previous or Bookmarks buttons with any lightweight theme,normal
+Bookmarks Hidden / bookmarks button menu goes outside its tile of the tiling window manager,normal
+"Dragging a bookmark icon on the Bookmarks Toolbar causes ASSERTION: Wrong bounds: 'bounds.IsEqualInterior(aChildren.GetBounds(aBuilder))', FrameLayerBuilder.cpp",normal
+Desktop Bookmarks folder cannot be removed after syncing,normal
+"It can be hard to hit the Bookmarks menu on Windows, because the ""New Tab"" submenu obscures it",normal
+"Hide ""View Bookmarks Toolbar"" from the [bookmarks toolbar button] menu if the Bookmarks Toolbar has been customized away",normal
+BookmarksListView's scrollbar size varies while scrolling,normal
+Displaying website icons in the Recently Closed Tabs list,normal
+Drag-n-drop preview of items dragged into iframe (e.g. bookmarks sidebar frame or devtools) doesn't appear until pointer exits iframe. [Dragging and dropping interaction with iframes],normal
+"[story] As a user, I want all of my bookmarks to be synced across my devices so that I have them whenever and wherever I need them.",normal
+"[story] As a user, I want all of my data (history, bookmarks, etc.) to be saved on my local machine whether or not I've set up a Firefox Account, so I am still able to build up a collection of data and personalize my Firefox experience over time.",normal
+Split BrowserProvider into History and Bookmarks,normal
+[TABLET] Pinned bookmarks are truncated,normal
+Should be able to hover between [bookmarks menu] and [bookmark folders] if they are on the same toolbar,minor
+Accessing synced bookmarks requires 5 clicks on Firefox for Android,normal
+Follow-up: Adjust alignment of Bookmarks homescreen empty view,normal
+Rename BookmarksListView styles to something more generic,normal
+(Mac) Recently Closed Tabs menu items open random tabs in that menu,normal
+Bookmarks menu slow to respond on mouse over,normal
+Distinguish clicks on the bookmarks menu button menu and actual bookmarks,normal
+make downloads button icon pulse like bookmarks list button icon,normal
+Keyword added to a bookmark will also be added to other bookmarks if the bookmarks are the same,normal
+All Bookmarks icon uses yellow stars instead of the new blue color or updated icon (on Linux),normal
+The bookmarks menu (accessed through the toolbar button) is laggy,normal
+[Australis] Text is zoomed when clicking on Bookmarks widget while in Customize mode,minor
+Implement recent bookmarks view in the bookmarks menu,normal
+Right Click->Delete in Bookmarks menu unter particular circumstances has no effect or greyed out,normal
+"The toolbar context menu items (collapse/uncollapse toolbars, and enter customize mode) should be present on the context menu for the Bookmarks Toolbar Items",normal
+Subview footer in bookmarks panel not centered in Linux and Mac OS X,normal
+"Tab Detaching: drag and drop onto bookmarks, home button, etc.",normal
+Use HTTP cache v2 API in unit tests,normal
+Write a Mercurial hook that prevents local bookmarks from being accidentally pushed,normal
+Better support for reusing icons in distribution and default bookmarks,normal
+"Don't redundantly store ""[]"" in bookmarks table for ""tags"".",normal
+Resizeble bookmark properties panel in Bookmarks Manager,normal
+tooltip is not exposed on toolbar buttons from bookmarks toolbar,normal
+Allow bookmarks for content included in distribution files,normal
+show homescreen bookmarks as separate entries in app switcher,normal
+Add automated test for creating bookmarks in private browsing,normal
+[UX] Make bookmarks list more attractive,normal
+Sidebar (Bookmarks + History): Double-right-click on Folder does single click action,trivial
+Android 4.3 testBookmarkFolders | Trying to click on the Desktop Bookmarks folder - The Desktop Bookmarks folder was clicked,normal
+Consider adding an option to delete all items from the reading list and/or bookmarks,normal
+"Align action buttons in ""Export bookmarks"" dialog consistently",normal
+Remove success/failure callbacks from the bookmarks API,normal
+Bookmarks should include a meta description if available,normal
+Remove default bookmarks,normal
+The context menu bookmark star state doesn't update when the bookmarks button has been moved out of the toolbar,normal
+Telemetry probes for default bookmarks,normal
+[OS X] Layout issues when Bookmarks Toolbar is placed in the Tab bar,normal
+The window itself can be dragged by dragging the bookmarks bar (or the menu button separator) when a lightweight theme is in use,normal
+Bookmarks toolbarbutton hover state looks broken on Windows 8,normal
+[meta] Sync bookmarks,normal
+Make default bookmarks more configurable,normal
+"Use ""split pane styling"" for Bookmarks Panel on Tablets in landscape",normal
+[Windows] Bookmarks are not migrated while importing data from about:preferences#security,normal
+Separators in bookmarks popup in australis menu (≡) have strange dots at the left side (aka remove left and right borders for separators),normal
+Bookmark folder that contains the imported reading list items has the same name as the imported bookmarks folder,normal
+An empty folder is imported if there are no bookmarks in Edge/IE favorites toolbar,normal
+Canceling drag-n-drop of bookmark on a subfolder collapses the whole bookmarks popup,normal
+Bookmarks toolbar shrinks in size when Bookmarks Toolbar Items is moved out of the Bookmarks toolbar in customization mode,normal
+Dropmarker in bookmarks button placed on tabs toolbar is off-center,trivial
+Devtools resizer isn't placed directly under mouse cursor during resizing if Menu bar or Bookmarks sidebar opens/closes,normal
+[meta] Improve Bookmarks management,normal
+Remind users of saved bookmarks,normal
+Provide Capability to Expire History Entries by Age,normal
+Glitches opening show all bookmarks folders from edit this bookmark,trivial
+"Indicate ""unread"" bookmarks",normal
+Experiment with showing saved PDFs in from bookmarks panel,normal
+Add telemetry for screenshot items in Bookmarks panel view,normal
+Investigate proper date formatting for locales in BookmarksScreenshotRow,normal
+Consider requested STORAGE permission sooner for screenshots in bookmarks,normal
+Create L10N Snapshot Test for Bookmarks Panel,normal
+Mouse over highlight bookmarks context menuitem disappears when downloads are in progress,normal
+Create bookmarks during each pull,normal
+Unable to navigate up a parent nor root bookmark folder from 'Mobile Bookmarks',normal
+"Remove ""Reading List"" folder from Bookmarks in guest mode",normal
+Tab Bar is half visible when Bookmarks Toolbar Items is dragged into it,major
+Nightly does not jump to html ID bookmarks upon tab/page load (page.html#bookmarkID),normal
+Bookmarks to include URL link under the website or not,normal
+"Drag and drop of webpage favicon to Bookmarks Sidebar creates bookmark from wrong browser tab or even ""about:blank"" bookmark",normal
+Folder dropmarkers in bookmarks sidebar don't update correctly (don't redraw until folder is hovered),normal
+Submenu of Bookmarks panel disappears if I hover mouse over it,normal
+"Focus outline on dark theme is barely noticeable (bookmarks sidebar, identity block)",normal
+In some cases expanded folder in bookmarks menu isn't scrolled into view when I hover mouse over its submenu (100% str),normal
+Menu bar opened via F10 doesn't close if I click outside of it (if I clicked bookmarks folder),normal
+Context menu of bookmarks folder collapse if I right-click another folder,normal
+"Opened folders in bookmarks lose ""pressed"" effect if I drag bookmark items around",normal
+Submenu of bookmarks folder collapse if I hover mouse over the folder after moving mouse over another item,normal
+Submenus opened from menupopup are displayed below the menu,normal
+Bookmarks panel doesn't remember it's scroll position,normal
+[meta] Investigate Firefox hanging while importing bookmarks/history/passwords from Google Chrome,normal
+"""Bookmarks Folders path Pane"" in 'Bookmark this Group of TABS',  'File Bookmark' should use all available hight of Bookmarks Dialog",minor
+"When browser is maximized, PlacesChevron in Bookmarks Toolbar no longer reacts with mouse at the rightmost pixel",normal
+"[meta] Create a library button to show Recent Bookmarks, Recent Downloads, History, Synced Tabs, Screenshots, and Pocket List",normal
+"Drag scroll is too sensitive(too early to start), when I drag a link to bookmarks toolbar, page scrolls up few line",normal
+[Meta] Allow simple bidirectional bookmarks syncing,normal
+XCSyncUITests for history and bookmarks,normal
+'Open all Bookmarks in TABs' will not open bookmarks if TAB header would exceed page width,normal
+Display a warning  when removing a folder with multiple bookmarks,normal
+"Fix tests from Bug 1293618 ""Clear History from Private Data"" completely broken",major
+Port bug 1459856: Stop using PlacesUtils.asyncHistory in Seamonkey tests,normal
+Port Bug 1460570 - Merge mozIAsyncFavicons into nsIFaviconService,normal
+Add hg-aggregate as a trusted group without breaking mozilla-unified's bookmarks,normal
+Bring back the keywords column to the the SeaMonkey Library,normal
+Drag and Drop funktion for sorting bookmarks,normal
+SeaMonkey Bookmarks Library Usability Issues,normal
+"Consider showing the mobile bookmarks query if you're syncing with mobile, even if there are no mobile bookmarks",normal
+Report active bookmarks mirror statements at shutdown,normal
+Measure interaction with bookmarks synced from other devices,normal
+"Update ""When you open a link in a new tab, switch to it immediately"" to apply to bookmarks (match Safari's ""When a new tab or window opens, make it active"")",normal
+Support XMPP bookmarks (XEP-0048),normal
+Make migrating more prominent from Library Menu > Bookmarks,normal
+Add an option to load new opened tab(s) in background from SeaMonkey/SM's Library.,normal
+mozilla-unified bookmarks for trees like e.g. autoland sometimes updated with delay,normal
+[macOS][dark theme] - correct styling for New Folder button when adding Bookmarks,S4
+[meta] Migrate keyword bookmarks into about:prefences managed Search Engines, --
+Add bookmarks menu on Chatzilla window,normal
+Deleting history items from sidebar horked,normal
+Browser history not cleared during SeaMonkey shutdown,S1
+Replace `nsAString` with `nsAUTF8String` in the bookmarks mirror,normal
+Update docs in SyncedBookmarksMirror.jsm,S4
+Investigate Bookmarks::Reorder behavior with several thousands bookmarks,normal
+[Win] The dropdown from Folder section ( New Bookmark/Edit This Bookmark panels) doesn't collapse when the Choose option is accessed with the down arrow keyboard,normal
+Tags gets duplicated inside the Library when attempting to change the Location,normal
+[mac] Scroll bar disappear on scrolling inside bookmarks and history menus (with permanent scroll bar turned on in system preferences),S3
+The URL autofill incorrectly for about:about page added to bookmarks,normal
+Add fake one-offs for history/bookmarks/etc,S3
+Remove or simplify expensive saved-to-library animation,normal
+Allow for home screen bookmarks,normal
+Too little padding on left & right side of bookmarks toolbar,minor
+Still sometimes moved and newly added bookmarks are placed in incorrect and wrong order in folder in Library,normal
+Middle click bookmarklets doesn't work,normal
+Consider Managed Bookmarks folder,normal
+Unwanted Margin in Edit Bookmarks panel offsets Button and Title 1px to the right,trivial
+"Submenus of Bookmarks open small menu, then expand to full size",major
+"investigate if we can push filtering down into a sql query, instead of filtering at FilterResultSet()",normal
+"in the case of a frecency tie, break it with h.typed and h.visit_count",normal
+Make bookmark dialogs non instant-apply (Firefox hangs when canceling bookmarks dialog after a huge amount of repeated actions),major
+Bookmark with invalid URI cannot be deleted (Exception: NS_ERROR_MALFORMED_URI @ PTV_getCellText],normal
+xulstore is keeping a quasi history via place: and find: urls in RDF:about attributes,normal
+Cleanup places command handling,normal
+Simplify the code for searching places views,normal
+"Use the view ""active"" property to avoid background work when custom views are in use",normal
+"Intermittent testAboutHomePageNavigation | Waiting for HomePager BOOKMARKS panel. | testAboutHomeVisibility | The Toolbar title is - got about:home - Yahoo Search Results, expected",normal
+Bookmarks popup would not scroll with mouse wheel when mouse pointer on a folder,normal
+bookmarks.search fails on non-http(s) URLs,normal
+Sort Bookmarks from recent to old,normal
+Remove unecessary .bookmarks-toolbar rule from widget-overflow and appmenu-popup elements.,normal
+Keyboard modifiers should alter the behavior of clicking bookmarks in the native menu,normal
+Disappearing bookmarklets in my bookmarks toolbar after Syncing,normal
+"for pages that are images, store a scaled (16 x 16 px) and resampled version of the image as the favicon",normal
+Minimized Bookmarks Manager window won't accept drop targets nor raise its window,major
+prevent the user from dropping bookmarks in the middle of a selection,normal
+Bookmark tags with comma and quotes can not be matched,normal
+Regression: middle clicking on a bookmark does not respect browser.tabs.loadBookmarksInBackground,normal
+Search in bookmarks loses sort (should use position key),normal
+"Searching in Tags should search for an existing tag and not in ""All Bookmarks""",normal
+"Inconsistent shortcut keys for ""new tab/new window""",trivial
+when doing Bookmark All Tabs allow for tags multiediting,normal
+on bookmarks toolbar we often get dragleave for buttons rather than for toolbar,normal
+Places tree view sometimes improperly restores multiple selection,normal
+pressing Enter in tags autocomplete (not popup) closes bookmarks dialogs,normal
+consider using JSON rather than HTML for default Firefox bookmarks,normal
+What should views do if their root node's item is removed?,normal
+Bookmark properties dialog should show position of the bookmark,normal
+Show each visit (instead of just the last visit) in History,normal
+Handle orphaned bookmarks if a folder is improperly deleted,normal
+Sort bookmarks list with most recently added ones at the top,normal
+Don't suggest tags that have already been used for a bookmark,normal
+moving mouse from chevron to folders on the bookmarks toolbar does not auto-open popups,normal
+Only visible items selected after press Ctrl+A on Library - Downloads,normal
+"Deleting a bookmark doesn't refresh the ""Edit This Bookmark"" item in the Bookmarks menu",normal
+Locale mismatch in the sidebar title on startup in new language,normal
+bookmarks.search doesn't allow quoted search terms,normal
+Tapping back via Android's navigation bar while in a folder in bookmarks brings up the long press back popup,normal
+"Intermittent browser/components/places/tests/browser/browser_toolbar_overflow.js | The first bookmark is visible - """" == ""visible"" - JS frame :: chrome://mochitests/content/browser/browser/components/places/tests/browser/browser_toolbar_overflow.js",normal
+Intermittent browser/components/places/tests/browser/browser_editBookmark_keywords.js | Test timed out -,normal
+Library - Can't create a new folder if places.xhtml is open in content,normal
+On first load dropmarker-menu bookmarks toolbarmenu shows very briefly scrollarrows,minor
+Ctrl-Z (undo) reveals visited URLs AFTER clearing history,normal
+Home button doesn't show icon in customize window when dragged from Bookmarks Toolbar,normal
+Hover blink with on disabled menu items in context menu of bookmarks popup,normal
+Multiple bookmark folders shown as a result of right-click and left-click combination's on Bookmarks menus,trivial
+"Add unicode-in-all-fields bookmarks, history, tabs, etc. to crossweave tests",normal
+Bookmarks deleted on 2 computers - suspect sync issue,normal
+Clicking outside the bookmarks menu consumes click events,normal
+Customization Mode: Bookmarks toolbar item doesn't have any animation,normal
+Bookmarks look very big and don't always match the style of toolbar,normal
+Intermittent testReadingListToBookmarksMigration | application crashed [@ libdvm.so + 0x81f52],critical
