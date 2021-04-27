@@ -18,13 +18,15 @@ class Queue:
         return self.items
 
 
-q = Queue()                       # create an object
-
-q.enqueue(34)
-q.enqueue(23)
-q.enqueue(12)
-q.enqueue(84)
-print(q.display())
-
-print(q.deque())
-print(q.display())
+# q = Queue()                       # create an object
+#
+# q.isEmpty()
+#
+# q.enqueue(34)
+# q.enqueue(23)
+# q.enqueue(12)
+# q.enqueue(84)
+# print(q.display())
+#
+# print(q.deque())
+# print(q.display())

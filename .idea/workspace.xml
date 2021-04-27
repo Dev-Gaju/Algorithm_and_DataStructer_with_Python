@@ -1,48 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3074ffef-e795-4536-83a5-5d53763a62c7" name="Default Changelist" comment="" />
+    <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/EvenNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/Progrmming_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/check_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/check_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/encrypt_decrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/function_with_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/myprogramme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/second_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/txtfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree_Printer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProgrammingForEveryone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/ListAdd_remove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progrmming_concept.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encrypt_decrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_with_fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprogramme.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/researchPaper/Bugs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/researchPaper/punc_remove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_largest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txtfile.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1c2shdt1M0YJCLkEaVgTo9F1u1X" />
+  <component name="ProjectId" id="1rkSLuNRuQlyKb1GWXhIgZL7UGI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/researchPaper" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings>
-        <option name="useSoftWraps" value="true" />
-      </console-settings>
-    </option>
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gazur\PycharmProjects\ProgrammingForEveryone\researchPaper" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gazur\PycharmProjects\ProgrammingForEveryone" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.Big_O_Notation">
-    <configuration name="Big_O_Notation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingForEveryone" />
+  <component name="RunManager" selected="Python.Binary_search_">
+    <configuration name="Binary_search_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -53,7 +74,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Big_O_Notation.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,29 +84,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="check_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingForEveryone" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_output.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingForEveryone" />
+    <configuration name="Insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -95,49 +96,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="recurssion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingForEveryone" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/recurssion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingForEveryone" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Insertion_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,103 +108,28 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Big_O_Notation" />
-        <item itemvalue="Python.recurssion" />
-        <item itemvalue="Python.check_output" />
-        <item itemvalue="Python.queue" />
-        <item itemvalue="Python.stack" />
+        <item itemvalue="Python.Binary_search_" />
+        <item itemvalue="Python.Insertion_sort" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3074ffef-e795-4536-83a5-5d53763a62c7" name="Default Changelist" comment="" />
-      <created>1589738142093</created>
+      <changelist id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="" />
+      <created>1619518541666</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589738142093</updated>
+      <updated>1619518541666</updated>
+      <workItem from="1619518629790" duration="1504000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1515" height="261" key="GridCell.Tab.-1.bottom" timestamp="1591789928970">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591789928970" />
-    <state width="1515" height="261" key="GridCell.Tab.-1.center" timestamp="1591789928970">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1591789928970" />
-    <state width="1515" height="261" key="GridCell.Tab.-1.left" timestamp="1591789928970">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1591789928970" />
-    <state width="1515" height="261" key="GridCell.Tab.-1.right" timestamp="1591789928970">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1591789928970" />
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1599594894499">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599594894499" />
-    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1599594894498">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599594894498" />
-    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1599594894498">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599594894498" />
-    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1599594894499">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599594894499" />
-    <state width="1515" height="200" key="GridCell.Tab.1.bottom" timestamp="1597664817955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="200" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597664817955" />
-    <state width="1515" height="200" key="GridCell.Tab.1.center" timestamp="1597664817955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="200" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597664817955" />
-    <state width="1515" height="200" key="GridCell.Tab.1.left" timestamp="1597664817955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="200" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597664817955" />
-    <state width="1515" height="200" key="GridCell.Tab.1.right" timestamp="1597664817955">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="200" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597664817955" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1599572562629">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599572562629" />
-    <state x="336" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597663792504">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="336" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1597663792504" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594129230892">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594129230892" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/check_output.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/check_array.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_.coverage" NAME="Binary_search_ Coverage Results" MODIFIED="1619520469296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Insertion_sort.coverage" NAME="Insertion_sort Coverage Results" MODIFIED="1619518986352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
   </component>
 </project>
