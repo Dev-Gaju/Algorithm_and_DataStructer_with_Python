@@ -2,50 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/EvenNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/Progrmming_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/check_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/check_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/encrypt_decrypt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/function_with_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/mymodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/myprogramme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/python.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/second_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Concept/txtfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree_Printer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProgrammingForEveryone.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/Hash_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Concept/PrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hash_with_collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hast_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/ListAdd_remove.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Progrmming_concept.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_output.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encrypt_decrypt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_with_fun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymodule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myprogramme.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/researchPaper/Bugs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/researchPaper/punc_remove.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_largest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txtfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Concept/check_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/check_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Big_O_Notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Big_O_Notation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,12 +38,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Binary_search_">
-    <configuration name="Binary_search_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Big_O_Notation">
+    <configuration name="Big_O_Notation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +59,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Big_O_Notation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +68,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hash_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Concept" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Concept/Hash_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hash_with_collision" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +103,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Insertion_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hash_with_collision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hast_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hast_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Concept" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Concept/map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,8 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Binary_search_" />
-        <item itemvalue="Python.Insertion_sort" />
+        <item itemvalue="Python.Big_O_Notation" />
+        <item itemvalue="Python.Hast_table" />
+        <item itemvalue="Python.Hash_with_collision" />
+        <item itemvalue="Python.Hash_table" />
+        <item itemvalue="Python.map" />
       </list>
     </recent_temporary>
   </component>
@@ -121,15 +196,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619518541666</updated>
-      <workItem from="1619518629790" duration="1504000" />
+      <workItem from="1619518629790" duration="10808000" />
+      <workItem from="1619608837015" duration="2231000" />
+      <workItem from="1619685205524" duration="13338000" />
+      <workItem from="1619803190989" duration="5058000" />
+      <workItem from="1619871090802" duration="4247000" />
     </task>
+    <task id="LOCAL-00001" summary="Tree on DataStructure">
+      <created>1619520519106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619520519106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tree on DataStructure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree on DataStructure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic Concept/check_array.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="i==4" language="Python" />
+          <url>file://$PROJECT_DIR$/Basic Concept/PrimeNumber.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic Concept/Hash_table.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$PrimeNumber.coverage" NAME="PrimeNumber Coverage Results" MODIFIED="1619648352676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_.coverage" NAME="Binary_search_ Coverage Results" MODIFIED="1619520469296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Insertion_sort.coverage" NAME="Insertion_sort Coverage Results" MODIFIED="1619518986352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Hash_with_collision.coverage" NAME="Hash_with_collision Coverage Results" MODIFIED="1619816381554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Hast_table.coverage" NAME="Hast_table Coverage Results" MODIFIED="1619816388228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Big_O_Notation.coverage" NAME="Big_O_Notation Coverage Results" MODIFIED="1619908804279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_Tree.coverage" NAME="Binary_Tree Coverage Results" MODIFIED="1619548284238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$map.coverage" NAME="map Coverage Results" MODIFIED="1619712460089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_Tree.coverage" NAME="Binary_search_Tree Coverage Results" MODIFIED="1619547395589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Hash_table.coverage" NAME="Hash_table Coverage Results" MODIFIED="1619727680679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$check_array.coverage" NAME="check_array Coverage Results" MODIFIED="1619549358356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$txtfile.coverage" NAME="txtfile Coverage Results" MODIFIED="1619689736787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
   </component>
 </project>

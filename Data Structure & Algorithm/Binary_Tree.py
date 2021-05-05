@@ -1,5 +1,8 @@
+
+#BFS and DFS very important and apply with graph or many edge  for root
 from queue import Queue
 from Tree_Printer import BinaryTreePrinter
+from stack import Stack
 class TreeNode:
     def __init__(self,val):
         self.left=None   #left chile
@@ -14,18 +17,38 @@ class  Binary_Tree:
         if self.root is None:
            self.root =TreeNode(val)
         else:
-            nodes = Queue()                            #use Queue here to add depth
+            nodes = Queue()                            #use Queue here to add depth BFS
             nodes.enqueue(self.root)
 
             while True:
                 checking_node =nodes.deque()
                 if checking_node.left is None:
                     checking_node.left =TreeNode(val)
+                    return
                 elif checking_node.right is None :
                     checking_node.right =TreeNode(val)
+                    return
                 else:
                     nodes.enqueue(checking_node.left)
                     nodes.enqueue(checking_node.right)
+
+        # when implement with normal tree
+    def contrains(self, val):
+        nodes = Stack()
+        nodes.push(self.root)
+
+        while not nodes.isEmpty():
+            node = nodes.pop()
+            print("checking Node :", node.val)
+            if node.val == val:
+                return True
+
+            if node.left is not None:
+                nodes.push(node.left)
+            if node.right is not None:
+                nodes.push(node.right)
+        return False
+
 
 
     def __str__(self):
@@ -33,9 +56,12 @@ class  Binary_Tree:
         return tree_printer.get_tree_string(self.root)
 
 
-mytree = Binary_Tree()
+
+my_tree = Binary_Tree()
 for c in ['a','b','c','d','e']:
-    mytree.insert(c)
-    print(mytree)
+    my_tree.insert(c)
+    print(my_tree)
+
+print("contains a: ", my_tree.contrains('d'))
 
 
