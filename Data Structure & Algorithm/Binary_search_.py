@@ -16,5 +16,6 @@ def Verify(index):
     else:
         print("Target doesn't Exist")
 Number = [1,2,3,4,5,6,7,8,9]
-result = Binary_search(Number, 7)
+# Number = [7]
+result = Binary_search(Number, 2)
 Verify(result)

@@ -35,7 +35,7 @@ def merge_sort(values):
     
     return sorted_values
 
-numbers = [2,3,5,6,22,33,45,67,11,2,44,62,7,21]
+numbers = [2,5,3,77,22,6,45,67,11,2,44,62,7,21]
 sorted_number = merge_sort(numbers)
 print(sorted_number)
  

@@ -3,7 +3,8 @@ def quick_sort(sequence):
     if length <= 1:
         return sequence
     else:
-        pivot = sequence.pop() 
+        pivot = sequence.pop()
+        print(pivot)
     
     item_greater = []
     item_lower = []

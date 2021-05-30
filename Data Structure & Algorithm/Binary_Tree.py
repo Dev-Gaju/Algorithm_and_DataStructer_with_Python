@@ -1,6 +1,6 @@
 
 #BFS and DFS very important and apply with graph or many edge  for root
-from queue import Queue
+from queue_check import Queue
 from Tree_Printer import BinaryTreePrinter
 from stack import Stack
 class TreeNode:
