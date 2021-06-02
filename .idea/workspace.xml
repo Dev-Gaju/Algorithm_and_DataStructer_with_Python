@@ -2,36 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Quick_sort_1st.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debuge_note/Random_Forest_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debuge_note/Spelling_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/Weight_intervel_scheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/memoi_and_tabu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/ISort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/LS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/MSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/QSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/1_N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/BackTracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Binary_search_rec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Height_of_a_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Memoization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Merge_Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Single_number_exist_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sum_of_digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/adjacent_dublicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/fib_number =.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/iterative_to_recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/iterative_vs_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_python/double_link_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Binary_number_with_most_2_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Key_padd_Combination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Making_sentence_from word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/String_sub_sequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/array_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/minimum_cost_of_a_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/search_word_on_board.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_search_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Insertion_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Merge_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Quick_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Quick_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Reverse_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +30,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1rkSLuNRuQlyKb1GWXhIgZL7UGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,59 +52,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.adjacent_dublicate">
-    <configuration name="1_N" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_and_DataStructer_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/1_N.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Single_number_exist_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Single_link_list">
+    <configuration name="Single_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Single_number_exist_in_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sum_of_digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_and_DataStructer_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/Sum_of_digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,17 +94,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adjacent_dublicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="array_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/adjacent_dublicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/array_permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,17 +116,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterative_vs_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="double_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_python/double_link_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linked_list_with_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_word_on_board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/iterative_vs_recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/search_word_on_board.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.adjacent_dublicate" />
-        <item itemvalue="Python.Sum_of_digit" />
-        <item itemvalue="Python.Single_number_exist_in_array" />
-        <item itemvalue="Python.iterative_vs_recursion" />
-        <item itemvalue="Python.1_N" />
+        <item itemvalue="Python.Single_link_list" />
+        <item itemvalue="Python.linked_list_with_Array" />
+        <item itemvalue="Python.double_link_list" />
+        <item itemvalue="Python.array_permutation" />
+        <item itemvalue="Python.search_word_on_board" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,14 @@
       <workItem from="1622138524331" duration="594000" />
       <workItem from="1622190327266" duration="2123000" />
       <workItem from="1622308120108" duration="3723000" />
-      <workItem from="1622357774307" duration="5976000" />
+      <workItem from="1622357774307" duration="10850000" />
+      <workItem from="1622454372250" duration="8225000" />
+      <workItem from="1622539732614" duration="8986000" />
+      <workItem from="1622556533749" duration="2694000" />
+      <workItem from="1622610236843" duration="1939000" />
+      <workItem from="1622626497995" duration="33000" />
+      <workItem from="1622629307568" duration="7087000" />
+      <workItem from="1622647717927" duration="7596000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
@@ -324,6 +330,36 @@
           <line>7</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/Reverse_string.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/Making_sentence_from word.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Recursion/search_word_on_board.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice_python/double_link_list.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -336,22 +372,28 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$LS.coverage" NAME="LS Coverage Results" MODIFIED="1620304202831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$search_word_on_board.coverage" NAME="search_word_on_board Coverage Results" MODIFIED="1622488517480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Big_O_Notation.coverage" NAME="Big_O_Notation Coverage Results" MODIFIED="1619908804279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_Tree.coverage" NAME="Binary_search_Tree Coverage Results" MODIFIED="1619547395589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Reverse_string.coverage" NAME="Reverse_string Coverage Results" MODIFIED="1622378743032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Hash_table.coverage" NAME="Hash_table Coverage Results" MODIFIED="1619727680679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$check_array.coverage" NAME="check_array Coverage Results" MODIFIED="1619549358356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$PrimeNumber.coverage" NAME="PrimeNumber Coverage Results" MODIFIED="1619648352676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$linked_list_with_Array.coverage" NAME="linked_list_with_Array Coverage Results" MODIFIED="1622635328709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Single_link_list.coverage" NAME="Single_link_list Coverage Results" MODIFIED="1622658311342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$BS.coverage" NAME="BS Coverage Results" MODIFIED="1620302234873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Quick_Sort.coverage" NAME="Quick_Sort Coverage Results" MODIFIED="1620330078920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_rec.coverage" NAME="Binary_search_rec Coverage Results" MODIFIED="1620503830802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$txtfile.coverage" NAME="txtfile Coverage Results" MODIFIED="1619689736787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$QSort.coverage" NAME="QSort Coverage Results" MODIFIED="1620390006758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Making_sentence_from_word.coverage" NAME="Making_sentence_from word Coverage Results" MODIFIED="1622483839071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$fib_number__.coverage" NAME="fib_number = Coverage Results" MODIFIED="1620505890322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Hast_table.coverage" NAME="Hast_table Coverage Results" MODIFIED="1619816388228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_Tree.coverage" NAME="Binary_Tree Coverage Results" MODIFIED="1619548284238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$map.coverage" NAME="map Coverage Results" MODIFIED="1619712460089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Sum_of_digit.coverage" NAME="Sum_of_digit Coverage Results" MODIFIED="1622367952039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$iterative_to_recursion.coverage" NAME="iterative_to_recursion Coverage Results" MODIFIED="1620582945296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$double_link_list.coverage" NAME="double_link_list Coverage Results" MODIFIED="1622555339349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$ISort.coverage" NAME="ISort Coverage Results" MODIFIED="1620317848317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_.coverage" NAME="Binary_search_ Coverage Results" MODIFIED="1620256955544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$1_N.coverage" NAME="1_N Coverage Results" MODIFIED="1621952041313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />

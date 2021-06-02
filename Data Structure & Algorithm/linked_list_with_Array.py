@@ -1,69 +1,63 @@
 class Node:
-    def __init__(self, value):
-        self.next = None
+    def __init__(self, val):
         self.prev = None
-        self.val = value
+        self.next = None
+        self.val = val
 
-
-class DoubleLinkedList:
+class double_linkList:
     def __init__(self):
         self.head = None
         self.tail = None
-        self.size = 0
+        self.size = 0    #calculate the size of link_list
 
     def add(self, val):
         node = Node(val)
         if self.tail is None:
             self.head = node
             self.tail = node
-            self.size += 1
+            self.size +=1
         else:
-            self.tail.next = node
-            node.prev = self.tail
-            self.tail = node
-            self.size += 1
+            self.tail.next=node  #after head means new node
+            node.prev = self.tail   #introuce new node to the before node
+            self.tail = node   #add new node
+            self.size =+1
 
-    def __remove_node(self, node):
-        if node.prev is None:
-            self.head = node.next
+    def __remove_node(self, node):   #update the remove node link
+        if node.prev is None:  #check head node or not
+            self.head = node.next  #update head
         else:
             node.prev.next = node.next
 
-        if node.next is None:
-            self.tail = node.prev
-
+        if node.next is None:  #same as head
+            self.tail =node.prev    #previous node will be tail
         else:
             node.next.prev = node.prev
+        self.size =- 1
 
-        self.size -= 1
-
-    def remove(self, value):
-        node = self.head
-        while node is not None:
+    def remove_node(self, value):  #remove function
+        node = self.head     #start from head to search the removable value
+        while node is not  None:
             if node.val == value:
                 self.__remove_node(node)
-            node = node.next
+            node = node.next    #iteration increased
 
+
+#help to print the node
     def __str__(self):
-        vals = []
+        values = []
         node = self.head
-        while node is not None:
-            vals.append(node.val)
+        while node is not  None:
+            values.append(node.val)
             node = node.next
-        return f"[{', '.join(str(val) for val in vals)}]"
+        return f"[{', '.join(str(val) for val in values)}]"
 
 
-my_list = DoubleLinkedList()
-my_list.add(5)
-my_list.add(9)
-my_list.add(9)
+my_list = double_linkList()
+my_list.add(1)
 my_list.add(2)
+my_list.add(5)
+my_list.add(4)
+# my_list.add(5)
 print(my_list)
-my_list.remove(2)
+my_list.remove_node(2)
 print(my_list)
-print(my_list.size)
-
-
-
-
-
