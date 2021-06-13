@@ -23,4 +23,5 @@ def binaryNumbers(n):
     rec (n, [], output)
     return output
 
-print(binaryNumbers(3))
+
+print(binaryNumbers(5))

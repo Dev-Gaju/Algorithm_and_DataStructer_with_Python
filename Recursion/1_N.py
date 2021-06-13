@@ -1,7 +1,7 @@
                 # !-- print 1 to n------!
 def execute_N(n):
     if n==0:   #Based function
-       return 1
+       return None
     print(n)
     execute_N(n - 1)    #Hypothesis
     print(n)   #indexing

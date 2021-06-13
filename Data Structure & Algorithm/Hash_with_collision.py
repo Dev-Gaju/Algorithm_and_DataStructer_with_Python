@@ -15,24 +15,24 @@ class HashTable:
         return hash % self.max
 
 
-    def __getitem__(self, key):
-        h=self.get_hash(key)
-        for element in self.arr[h]:
-            if element[0] == key:
-                return element[1]         #not return anuthing in pthon it default return none
-
-
-
     # def add_key_value(self, key, val):   #add value as key with value
     def __setitem__(self, key, val):
         h= self.get_hash(key)
         found =False
         for idx, element in enumerate(self.arr[h]):
-            if len(element)== 2 and element[0] ==key:        #handle if key already exist
+            if len(element)== 2 and element[0] ==key:        # if key already exist with value then indexing do for second one
                 self.arr[h][idx]=(key, val)
                 found=True
         if not found:
             self.arr[h].append((key, val))
+
+
+    def __getitem__(self, key):
+        h = self.get_hash(key)
+        for element in self.arr[h]:
+            if element[0] == key:
+                return element[1]
+    #skip one line because not return anything in python it default return none
 
     def __delitem__(self, key):
         h=self.get_hash(key)

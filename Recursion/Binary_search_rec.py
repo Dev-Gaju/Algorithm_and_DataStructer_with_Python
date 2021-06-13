@@ -9,7 +9,6 @@ def Binary_search(arr, num, left, right):
     else:
         return Binary_search(arr, num, left, mid-1)
 
-
 def Binary_search_check(arr, num):
         return Binary_search(arr,num,0, len(arr)-1)
 

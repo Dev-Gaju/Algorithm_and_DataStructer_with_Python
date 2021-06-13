@@ -1,7 +1,7 @@
 def backTrack(weights, maxWeights, i, combs, comb):
-    if maxWeights<0:
+    if maxWeights < 0:
         return
-    elif i==len(maxWeights):
+    elif i == len(weights):
         combs.append(comb.copy())
     else:
         comb.append(i)
@@ -14,4 +14,4 @@ def get_combs(weights, maxweights):
     backTrack(weights, maxweights, 0, combs, [])
     return combs
 
-print(get_combs([2,3,5,67,4,3,7,4,4,3],20 ))
+print(get_combs([2,3,5,67,4,3,7,4,4,3],  20 ))
