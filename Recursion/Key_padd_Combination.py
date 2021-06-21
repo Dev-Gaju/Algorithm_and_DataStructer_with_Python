@@ -1,6 +1,6 @@
-#here used hashMap
+# here used hashMap
 
-def rec (keys,keypad, i, combination, output ):
+def rec (keys, keypad, i, combination, output ):
     if i == len(keys):
         output.append(''.join(combination))
     else:
@@ -14,20 +14,28 @@ def keypad_combination(keys):
     keypad =["+", ".", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
     rec(keys, keypad, 0, [], output)
     return output
-a = keypad_combination("7900")
+a = keypad_combination("794")
 print(a)
 
 
 # method 2:
-def keypadCombinations(keys, i=0):
-    keypad = ["+", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
-    if i == len(keys):
-        return ['']
-    else:
-        fromNext = keypadCombinations(keys, i + 1)
-        output = []
-        for letter in keypad[int(keys[i])]:
-            for combination in fromNext:
-                output.append(letter + combination)
-        return output
-
+# def keypadCombinations(keys, i=0):
+#     keypad = ["+", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
+#     if i == len(keys):
+#         return ['']
+#     else:
+#         fromNext = keypadCombinations(keys, i + 1)
+#         # print(fromNext)
+#         output = []
+#         # print(keys[1])
+#         # print(i)
+#         print(keypad[int(keys[i])])
+#
+#
+#         for letter in keypad[int(keys[i])]:
+#             # break
+#             for combination in fromNext:
+#                 output.append(letter + combination)
+#         return output
+# a = keypadCombinations("2794")
+# print(a)

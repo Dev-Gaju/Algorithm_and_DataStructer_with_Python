@@ -13,4 +13,4 @@ def Binary_search_check(arr, num):
         return Binary_search(arr,num,0, len(arr)-1)
 
 Number = [1,2,3,4,5,6,7,8,9]
-print(Binary_search_check(Number, 5))
+print(Binary_search_check(Number, 4))

@@ -5,7 +5,8 @@ def sumOfDigit(n):
         return n
     else:
         a=sumOfDigit(n//10)
-        return a + n%10
+        print(a)
+        return a + n % 10
 
 a=sumOfDigit(2334)
 print(a)
