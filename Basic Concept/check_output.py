@@ -3,7 +3,7 @@ def greater(a, b):
         return a
     return b
 
-print(greater(2, 9))
+# print(greater(2, 9))
 
 def greater1(a, b, c):
     return greater(greater(a, b), c)

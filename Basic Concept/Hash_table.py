@@ -3,5 +3,6 @@ def get_hash(key):
     for char in key:
         hash += ord(char)
     return hash % 100
+
 a = get_hash('April 16')
 print(a)

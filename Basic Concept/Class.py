@@ -1,11 +1,3 @@
-def addition(a, b):
-    return a + b
-
-
-var1 = addition(10, 26)
-print(var1)
-
-
 class Person:
     def __init__(self, person_name: str, phoneNumber: int, date_of_birth: str):
         self.__name = person_name

@@ -4,7 +4,7 @@ def greet(lang):
     elif lang == "fr":
         return "Hello France"
     elif lang == "Bang":
-        return "I am Bangali"
+        return "I am Bengali"
     else:
         print("Every Language is Important")
 
