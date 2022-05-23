@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Super().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_python/check_val.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/1_TwoSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/2_ThreeSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/3_LSWRC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/4_SubarraySEqual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem Solving(LEET)/5_Roman_integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/Hash_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/Hash_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/PrimeNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/PrimeNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/Progrmming_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/Progrmming_concept.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/check_output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/check_output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/encrypt_decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Multiple_inheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/function_with_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/function_with_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/mymodule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/myprogramme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/myprogramme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_python/B_Search_R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_python/B_Search_R.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/1_N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/1_N.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +50,7 @@
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Practice_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4_SubarraySEqual">
+  <component name="RunManager" selected="Python.5_Roman_integer">
     <configuration name="1_TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +99,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Solving" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -136,6 +121,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Solving" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -143,6 +131,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Solving/4_SubarraySEqual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_Roman_integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Solving(LEET)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem Solving(LEET)/5_Roman_integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,35 +180,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_and_DataStructer_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/array_permutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5_Roman_integer" />
         <item itemvalue="Python.4_SubarraySEqual" />
         <item itemvalue="Python.3_LSWRC" />
         <item itemvalue="Python.2_ThreeSum" />
         <item itemvalue="Python.1_TwoSum" />
-        <item itemvalue="Python.array_permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -291,6 +276,8 @@
       <workItem from="1652616050798" duration="1222000" />
       <workItem from="1652700353661" duration="4777000" />
       <workItem from="1652769537822" duration="5037000" />
+      <workItem from="1652960600924" duration="1225000" />
+      <workItem from="1653296499086" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
@@ -529,11 +516,6 @@
           <url>file://$PROJECT_DIR$/Basic Concept/check_array.py</url>
           <line>2</line>
           <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Problem Solving/1_TwoSum.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="102" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
