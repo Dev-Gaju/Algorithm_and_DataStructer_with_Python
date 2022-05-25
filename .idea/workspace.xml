@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
+      <change afterPath="$PROJECT_DIR$/Problem Solving(LEET)/7_RecordDatainLogFIle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem Solving(LEET)/6_String_TOinteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving(LEET)/6_String_TOinteger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +278,7 @@
       <workItem from="1652769537822" duration="5037000" />
       <workItem from="1652960600924" duration="1225000" />
       <workItem from="1653296499086" duration="6192000" />
-      <workItem from="1653370766350" duration="1266000" />
+      <workItem from="1653370766350" duration="2732000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
