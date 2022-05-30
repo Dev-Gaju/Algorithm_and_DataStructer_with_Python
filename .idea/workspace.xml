@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/Problem Solving(LEET)/7_RecordDatainLogFIle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +142,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem Solving(LEET)" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -279,6 +281,7 @@
       <workItem from="1652960600924" duration="1225000" />
       <workItem from="1653296499086" duration="6192000" />
       <workItem from="1653370766350" duration="2732000" />
+      <workItem from="1653912183485" duration="776000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
