@@ -1,3 +1,8 @@
+# import requests
+# import sys
+#
+# response = requests.get(sys.argv[1])
+# print(response.status_code, response.content)
 
 def TwoSum(num, target):   #complexity (O(n^2)
     for i in range(len(num)):
