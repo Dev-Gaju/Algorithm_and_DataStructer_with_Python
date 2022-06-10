@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/1_input in python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Compare two array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Abstraction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Solving_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Solving_problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem Solving(LEET)/1_TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving(LEET)/1_TwoSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +99,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -288,7 +287,7 @@
       <workItem from="1654238555094" duration="1322000" />
       <workItem from="1654517179198" duration="2888000" />
       <workItem from="1654581575715" duration="2080000" />
-      <workItem from="1654674171976" duration="3506000" />
+      <workItem from="1654674171976" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
