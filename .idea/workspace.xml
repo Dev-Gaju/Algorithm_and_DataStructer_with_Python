@@ -13,6 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -37,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -290,6 +293,7 @@
       <workItem from="1655120221692" duration="4014000" />
       <workItem from="1655129932792" duration="3574000" />
       <workItem from="1655201597958" duration="1837000" />
+      <workItem from="1655315376634" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
