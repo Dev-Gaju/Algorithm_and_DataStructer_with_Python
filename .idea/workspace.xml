@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
+      <change afterPath="$PROJECT_DIR$/A_Python/plusMinus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Solving_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Solving_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -101,9 +103,6 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -294,6 +293,7 @@
       <workItem from="1655129932792" duration="3574000" />
       <workItem from="1655201597958" duration="1837000" />
       <workItem from="1655315376634" duration="820000" />
+      <workItem from="1655367704269" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
