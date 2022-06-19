@@ -1,4 +1,4 @@
-rows = int(input("Inter the Number the rows : "))
+rows = int(input("Inter the bumber the rows : "))
 columns = int(input("Enter the number of columns: "))
 
 matrix = []
@@ -9,8 +9,6 @@ for i in range(rows):
         a = int(input(j))
         ele.append(a)
     matrix.append(ele)
-print("Here the Matrix is ", matrix)
-
 
 for i in matrix:
     for j in i:
