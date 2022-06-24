@@ -1,18 +1,15 @@
-rows = int(input("Inter the Number the rows : "))
-columns = int(input("Enter the number of columns: "))
+a = []
+for i in range(5):
+    ele = int(input())
+    a.append((ele))
+# print(a)
 
-matrix = []
-
-for i in range(rows):
-    ele = []
-    for j in range(columns):
-        a = int(input(j))
-        ele.append(a)
-    matrix.append(ele)
-print("Here the Matrix is ", matrix)
-
-
-for i in matrix:
-    for j in i:
-        print(matrix[i] + matrix[j])
-        break
+a.sort()
+b=0
+for i in range(len(a)-1):
+     b += a[i]
+print(b)
+c=0
+for i in range(1,len(a)):
+     c += a[i]
+print(c)

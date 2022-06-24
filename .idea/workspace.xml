@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/A_Python/Diagonal Calculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/1_Take an array input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Python/Min_max_Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Multiple_inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Multiple_inheritence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Solving_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Solving_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +55,14 @@
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Practice_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Diagonal Calculation">
+  <component name="RunManager" selected="Python.Solving_problem">
     <configuration name="1_Take an array input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Python" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -81,6 +82,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -100,6 +104,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Python" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -180,9 +187,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solving_problem" />
         <item itemvalue="Python.Diagonal Calculation" />
         <item itemvalue="Python.1_Take an array input" />
-        <item itemvalue="Python.Solving_problem" />
         <item itemvalue="Python.1_input in python" />
         <item itemvalue="Python.StairCase" />
       </list>
@@ -292,6 +299,7 @@
       <workItem from="1655486161487" duration="6283000" />
       <workItem from="1655549006530" duration="8064000" />
       <workItem from="1655631664106" duration="8870000" />
+      <workItem from="1656093777753" duration="3765000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
