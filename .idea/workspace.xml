@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/A_Python/Min_max_Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Solving_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Solving_problem.py" afterDir="false" />
     </list>
@@ -299,7 +298,7 @@
       <workItem from="1655486161487" duration="6283000" />
       <workItem from="1655549006530" duration="8064000" />
       <workItem from="1655631664106" duration="8870000" />
-      <workItem from="1656093777753" duration="3765000" />
+      <workItem from="1656093777753" duration="4244000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
