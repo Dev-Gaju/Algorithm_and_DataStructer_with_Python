@@ -1,5 +1,5 @@
+from abc import ABC, abstractmethod
 
-from  abc import ABC, abstractmethod
 
 class Computer(ABC):
     @abstractmethod
@@ -10,12 +10,21 @@ class Computer(ABC):
 
     def Mouse(self):
         print("Here!! I am mouse")
+
+
 class Laptop(Computer):
+    def Mouse(self):
+        print("hey Mouse")
+
     def keypad(self):
         print("not need mouse")
+
     def Keyboard(self):
-        # print("Its a need a Keyboard to operate")
+        print("Its a need a Keyboard to operate")
         pass
 
-lap=Laptop()
+
+lap = Laptop()
 lap.Keyboard()
+lap.Mouse()
+lap.keypad()

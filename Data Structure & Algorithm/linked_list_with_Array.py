@@ -13,8 +13,8 @@ class double_linkList:
     def add(self, val):
         node = Node(val)
         if self.tail is None:
-            self.head = node
-            self.tail = node
+            self.head = node  #head point after  this node
+            self.tail = node  #tail point previous node
             self.size +=1
         else:
             self.tail.next=node  #after head means new node
