@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/Code_ability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Make_Queue_from _stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_and_DataStructer_with_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Concept/myprogramme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Concept/myprogramme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_ability.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code_ability.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Abstraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem Solving(LEET)/2_ThreeSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving(LEET)/2_ThreeSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Want to be Python Expert .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +165,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Concept" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -344,7 +338,8 @@
       <workItem from="1674586143485" duration="143000" />
       <workItem from="1677782561176" duration="439000" />
       <workItem from="1677783017988" duration="817000" />
-      <workItem from="1678097394049" duration="853000" />
+      <workItem from="1678097394049" duration="10818000" />
+      <workItem from="1678167357619" duration="6519000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
@@ -429,8 +424,8 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py</url>
-          <line>61</line>
+          <url>file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py</url>
+          <line>62</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -579,6 +574,11 @@
           <line>2</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code_ability.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -628,7 +628,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$LiniedList.coverage" NAME="LiniedList Coverage Results" MODIFIED="1677782841329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BJIT" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$PrimeNumber.coverage" NAME="PrimeNumber Coverage Results" MODIFIED="1619648352676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Concept" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$print_start.coverage" NAME="print_start Coverage Results" MODIFIED="1623821315861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice_python" />
-    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Code_ability.coverage" NAME="Code_ability Coverage Results" MODIFIED="1678097617928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Code_ability.coverage" NAME="Code_ability Coverage Results" MODIFIED="1678182290211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$minimum_cost_of_a_matrix.coverage" NAME="minimum_cost_of_a_matrix Coverage Results" MODIFIED="1624023937993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$Binary_search_rec.coverage" NAME="Binary_search_rec Coverage Results" MODIFIED="1623600390775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
     <SUITE FILE_PATH="coverage/Algorithm_and_DataStructer_with_Python$linked_list_with_Array.coverage" NAME="linked_list_with_Array Coverage Results" MODIFIED="1622635328709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure &amp; Algorithm" />

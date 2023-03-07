@@ -3,6 +3,8 @@ class Node():
         self.next = None
         self.val = val
 
+# [][]--->[][]---> [][]-->[][] value & text value location
+
 
 class SingleLinkList():
     def __init__(self):
@@ -33,6 +35,22 @@ class SingleLinkList():
                 return
             current = current.next
 
+    def position_remove(self, pos):
+        if self.head is None:
+            return
+        if pos == 0:
+            self.head = self.head.next
+        current = self.head
+        previous = None
+        count = 0
+        while current is not None and count != pos:
+            previous = current
+            current = current.next
+            count += 1
+        if current is None:
+            return
+        previous.next = current.next
+
 
     def print_node(self):
         current = self.head
@@ -43,28 +61,16 @@ class SingleLinkList():
 
 
 llist = SingleLinkList()
-llist.add(5)
+llist.add(7)
 llist.add(4)
 llist.add(3)
-llist.remove(4)
+llist.add(1)
+llist.add(9)
+llist.remove(3)
+llist.position_remove(2)
 llist.print_node()
 
 
 
 
-    # #delete with position
-    # def position_delete(self, pos):
-    #     node = self.head
-    #     if pos ==0:
-    #         self.head = node.next
-    #         return
-    #     prev = None
-    #     count = 0
-    #     while node and count !=pos:
-    #         prev = node
-    #         node = node.next
-    #         count +=1
-    #     if node is None:
-    #         return
-    #     prev.next = node.next
 
