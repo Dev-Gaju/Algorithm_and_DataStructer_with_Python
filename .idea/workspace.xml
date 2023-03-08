@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Reverse_num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code_ability.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code_ability.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/linked_list_with_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +338,9 @@
       <workItem from="1677782561176" duration="439000" />
       <workItem from="1677783017988" duration="817000" />
       <workItem from="1678097394049" duration="10818000" />
-      <workItem from="1678167357619" duration="6519000" />
+      <workItem from="1678167357619" duration="9031000" />
+      <workItem from="1678256797923" duration="1042000" />
+      <workItem from="1678265590102" duration="3098000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
@@ -573,11 +574,6 @@
           <url>file://$PROJECT_DIR$/Basic Concept/check_array.py</url>
           <line>2</line>
           <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Code_ability.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
