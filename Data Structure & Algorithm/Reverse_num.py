@@ -22,7 +22,7 @@ def Reverse_string(A, idx):
 
 
 A = "ABCD"
-Reverse_string(A, len(A) - 1)
+Reverse_string(A, len(A) - 1)  # len 4 but index have only 3[0,1,2,3]
 
 # another
 nums = 12345
