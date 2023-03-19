@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19911934-dd64-4237-a86b-8ae2c1048f35" name="Default Changelist" comment="Tree on DataStructure">
-      <change afterPath="$PROJECT_DIR$/Recursion/StringOccurence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Tree_Properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Tree_with_All.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/call_guest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/count_path_maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/subset_inNUmber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/tiles_fitted_floor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code_ability.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code_ability.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Reverse_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Reverse_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Key_padd_Combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Key_padd_Combination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/String_sub_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/String_sub_sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Binary_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Binary_Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree_Printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Tree_Printer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/queue_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/queue_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +81,33 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\Algorithm_and_DataStructer_with_Python\Data Structure &amp; Algorithm\Tree &amp; Graph" />
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Recursion" />
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Data Structure &amp; Algorithm" />
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Practice_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Key_padd_Combination">
-    <configuration name="Abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Tree_Properties">
+    <configuration name="Binary_Tree (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Binary_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Abstraction.py" />
+      <option name="SCRIPT_NAME" value="K:\Algorithm_and_DataStructer_with_Python\Data Structure &amp; Algorithm\Tree &amp; Graph\Binary_Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,6 +152,9 @@
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -139,39 +170,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_and_DataStructer_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Reverse_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="String_sub_sequences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tree_Properties" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/String_sub_sequences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/Tree_Properties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Key_padd_Combination" />
+        <item itemvalue="Python.Tree_Properties" />
         <item itemvalue="Python.Code_ability" />
-        <item itemvalue="Python.String_sub_sequences" />
-        <item itemvalue="Python.Abstraction" />
-        <item itemvalue="Python.Reverse_num" />
+        <item itemvalue="Python.Binary_Tree (1)" />
+        <item itemvalue="Python.Binary_Tree" />
+        <item itemvalue="Python.Key_padd_Combination" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +352,10 @@
       <workItem from="1678564656503" duration="1155000" />
       <workItem from="1678708813517" duration="595000" />
       <workItem from="1678887511401" duration="5914000" />
-      <workItem from="1678947342042" duration="9191000" />
+      <workItem from="1678947342042" duration="12090000" />
+      <workItem from="1679031580549" duration="7737000" />
+      <workItem from="1679130590800" duration="956000" />
+      <workItem from="1679224165472" duration="11977000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
