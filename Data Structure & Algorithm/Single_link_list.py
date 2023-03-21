@@ -3,6 +3,7 @@ class Node():
         self.next = None
         self.val = val
 
+
 # [][]--->[][]---> [][]-->[][] value & text value location
 
 
@@ -19,8 +20,8 @@ class SingleLinkList():
         else:
             temp = self.head
             while temp.next is not None:
-                temp=temp.next
-            temp.next=new_node
+                temp = temp.next
+            temp.next = new_node
 
     def remove(self, val):
         if self.head is None:
@@ -51,6 +52,25 @@ class SingleLinkList():
             return
         previous.next = current.next
 
+    def find_mid(self):  # best way
+        slow = self.head
+        fast = self.head
+        while fast is not None and fast.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+        return slow.val
+
+    def findMidPoint(self):
+        count = 0
+        middle = self.head
+        while self.head is not None:
+            count += 1
+            self.head = self.head.next
+        i = 0
+        while i < count // 2:
+            middle = middle.next
+            i += 1
+        return middle.val
 
     def print_node(self):
         current = self.head
@@ -70,7 +90,6 @@ llist.remove(3)
 llist.position_remove(2)
 llist.print_node()
 
+print(llist.find_mid())
 
-
-
-
+print(llist.findMidPoint())
