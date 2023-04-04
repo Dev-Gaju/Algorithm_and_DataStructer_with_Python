@@ -19,9 +19,9 @@ class Double_linklist():
             self.tail = new_node
             self.size += 1
         else:
-            new_node.prev = self.tail  # update previous tail with new node
+            new_node.prev = self.tail  # new node previous node is tail   1--2--3, now add 4
             self.tail.next = new_node  # added new node after the tail
-            self.tail = new_node  # create  new tail coz we add new val to the previous tail
+            self.tail = new_node  # update tail coz we add new node in tail position
 
     def remove(self, val):
         if self.head is None:  # if list null
