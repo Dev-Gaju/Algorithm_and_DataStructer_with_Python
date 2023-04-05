@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code_ability.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code_ability.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hast_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Hast_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure &amp; Algorithm/Single_link_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <recent name="K:\Algorithm_and_DataStructer_with_Python\Practice_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Code_ability">
+  <component name="RunManager" selected="Python.Double_linked_list_with_Array">
     <configuration name="Articulate_point_Graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +120,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Double_linked_list_with_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_and_DataStructer_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="KosaRaju_SCC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_and_DataStructer_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,28 +153,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph/KosaRaju_SCC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Prims_Algo_MST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_and_DataStructer_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Structure &amp; Algorithm/Tree &amp; Graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="K:\Algorithm_and_DataStructer_with_Python\Data Structure &amp; Algorithm\Tree &amp; Graph\Prims_Algo_MST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Double_linked_list_with_Array" />
         <item itemvalue="Python.Code_ability" />
         <item itemvalue="Python.heap" />
         <item itemvalue="Python.Articulate_point_Graph" />
         <item itemvalue="Python.KosaRaju_SCC" />
-        <item itemvalue="Python.Prims_Algo_MST" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +358,8 @@
       <workItem from="1679987109858" duration="4436000" />
       <workItem from="1680552120912" duration="1817000" />
       <workItem from="1680598354156" duration="5309000" />
-      <workItem from="1680630607851" duration="1615000" />
+      <workItem from="1680630607851" duration="2151000" />
+      <workItem from="1680685747628" duration="3495000" />
     </task>
     <task id="LOCAL-00001" summary="Tree on DataStructure">
       <created>1619520519106</created>
@@ -445,7 +445,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Data Structure &amp; Algorithm/Double_linked_list_with_Array.py</url>
-          <line>62</line>
+          <line>63</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">

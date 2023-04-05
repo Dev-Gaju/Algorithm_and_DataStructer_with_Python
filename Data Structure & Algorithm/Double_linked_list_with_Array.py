@@ -30,9 +30,9 @@ class Double_linklist():
             if self.head == self.tail:  # if only node in linked list
                 self.head = None  # both will be None
                 self.tail = None
-            else:  # if more than one None then only head related values will None
+            else:  # if more than one Node then only head related values will None
                 self.head = self.head.next  # update new head
-                self.head.prev = None   # after update new head delete the previuos head
+                self.head.prev = None   # after update new head delete the previous head
             return
         current = self.head
         while current is not None:  # if first case not true then check rest
@@ -41,8 +41,9 @@ class Double_linklist():
                     self.tail = current.prev  # update new tail
                     self.tail.next = None  # after update new tail previous tail will be removed
                 else:        # if value not same with current then update path
-                    current.prev.next = current.next
                     current.next.prev = current.prev
+                    current.prev.next = current.next
+
                 return
             current = current.next    # update loop
 

@@ -16,7 +16,7 @@
 # b=get_hash('April 6')
 # print(b)
 
-class HasTable :       #implemet hash table
+class HasTable :       # implement hash table
     def __init__(self):
         self.max = 10
         self.arr = [None for i in range (self.max)]
@@ -59,7 +59,7 @@ del (object["march 3"])
 # print(a)
 
 
-a=object["march 6"]  #see value with index
+a=object["march 6"]  # see value with index
 print(a)
 
 

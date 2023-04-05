@@ -26,7 +26,7 @@ class Linked_List:
             self.head = self.head.next
         curr = self.head
         while curr.next is not None:
-            if  curr.next.val == val:
+            if curr.next.val == val:
                 curr.next = curr.next.next
                 return
             curr = curr.next
@@ -34,15 +34,20 @@ class Linked_List:
     def del_with_pos(self, pos):
         if self.head is None:
             return
-        if pos ==0:
+        if pos == 0:
             self.head = self.head.next
 
-        curr_pos= self.head
-        while curr_pos.next is not None:
-            if curr_pos.next == pos:
-                curr_pos.next = curr_pos.next.next
+        current = self.head
+        previous = None
+        count = 0
+        while current is not None and count != pos:
+            previous = current
+            current = current.next
+            count += 1
+            if current is None:
+                print("Value not exist")
                 return
-            curr_pos = curr_pos.next
+        previous.next = current.next
 
     def print_node(self):
         current = self.head
@@ -57,5 +62,5 @@ LL.Add_val(2)
 LL.Add_val(3)
 LL.print_node()
 print('\n')
-LL.del_with_pos(2)
+LL.del_with_pos(3)
 LL.print_node()

@@ -44,13 +44,14 @@ class SingleLinkList():
         current = self.head
         previous = None
         count = 0
-        while current is not None and count != pos:
+        while current is not None and count != pos:   # find the current position of the linklist
             previous = current
             current = current.next
             count += 1
         if current is None:
             return
-        previous.next = current.next
+        previous.next = current.next   # remove current value from linklist anf update the position by adding before
+        # and previous list together
 
     def find_mid(self):  # best way
         slow = self.head
