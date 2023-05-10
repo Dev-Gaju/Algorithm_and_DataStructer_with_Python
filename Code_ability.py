@@ -1,66 +1,72 @@
-class Node:
+class Tree:
     def __init__(self, val):
-        self.next = None
+        self.left = None
+        self.right = None
         self.val = val
 
 
-class Linked_List:
+class BuildTree:
     def __init__(self):
-        self.head = None
-        self.size = 0
+        self.root = None
 
-    def Add_val(self, val):
-        new_node = Node(val)
-        if self.head is None:
-            self.head = new_node
-        else:
-            curr = self.head
-            while curr.next is not None:
-                curr = curr.next
-            curr.next = new_node
+    def insertVal(self, val):
+        newNode = Tree(val)
 
-    def remove(self, val):
-        if self.head is None:
+        if self.root is None:
+            self.root = newNode
             return
-        if self.head.val == val:
-            self.head = self.head.next
-        curr = self.head
-        while curr.next is not None:
-            if curr.next.val == val:
-                curr.next = curr.next.next
+        queue = [self.root]
+        while queue:
+            node = queue.pop(0)
+            if node.left is None:
+                node.left = newNode
                 return
-            curr = curr.next
-
-    def del_with_pos(self, pos):
-        if self.head is None:
-            return
-        if pos == 0:
-            self.head = self.head.next
-
-        current = self.head
-        previous = None
-        count = 0
-        while current is not None and count != pos:
-            previous = current
-            current = current.next
-            count += 1
-            if current is None:
-                print("Value not exist")
+            elif node.right is None:
+                node.right = newNode
                 return
-        previous.next = current.next
+            else:
+                queue.append(node.left)
+                queue.append(node.right)
 
-    def print_node(self):
-        current = self.head
-        while current is not None:
-            print(current.val, end="--->")
-            current = current.next
+    def buildTree(self, values):
+        for val in values:
+            self.insertVal(val)
 
 
-LL = Linked_List()
-LL.Add_val(5)
-LL.Add_val(2)
-LL.Add_val(3)
-LL.print_node()
+def preOrder(root):
+    if root is None:
+        return
+    print(root.val, end=" ")
+    preOrder(root.left)
+    preOrder(root.right)
+
+
+def Inorder(root):
+    if root is None:
+        return
+    Inorder(root.left)
+    print(root.val, end=" ")
+    Inorder(root.right)
+
+
+def labelWisePrint(root):
+    if root is None:
+        return
+    queue = [root]
+    while queue:
+        node = queue.pop(0)
+        print(node.val, end=" ")
+        if node.left:
+            queue.append(node.left)
+        if node.right is not None:
+            queue.append(node.right)
+
+
+tree = BuildTree()
+valus = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+tree.buildTree(valus)
+preOrder(tree.root)
+print("\n")
+Inorder(tree.root)
 print('\n')
-LL.del_with_pos(3)
-LL.print_node()
+labelWisePrint(tree.root)

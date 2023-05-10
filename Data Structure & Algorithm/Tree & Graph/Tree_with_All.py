@@ -72,11 +72,11 @@ def label_wise_print(root):
             queue.append(node.right)
 
 
-tree = BinaryTree()
-values = ['A', 'B', "C", "D", "E", "F", "G"]
-tree.build_tree(values)
-
-# Post_order(tree.root)
+# tree = BinaryTree()
+# values =['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+# tree.build_tree(values)
+#
+# pre_order(tree.root)
 # print("\n")
 # Inorder(tree.root)
 # print("\n")
