@@ -5,11 +5,11 @@ class Node:
         self.right = None
 
 """
-       5
-     /   \
-    3     7
-   / \   / \
-  2   4 6   8
+        5
+     /     \
+    3       7
+   / \      / \
+  2   4  6    8
 """
 
 class BinarySearchTree:
@@ -66,16 +66,16 @@ class BinarySearchTree:
     def find_paths(self, node, path):
         if node is None:
             return
-
         path.append(node.data)
 
         if node.left is None and node.right is None:
             print(path)
-        else:
-            self.find_paths(node.left, path)
-            self.find_paths(node.right, path)
 
-    def print_in_range(self, node, start, end):
+        self.find_paths(node.left, path)
+        self.find_paths(node.right, path)
+        path.pop()
+
+    def print_in_range(self, node, start, end):    # print values for give two values in range
         if node is None:
             return
 
@@ -97,12 +97,12 @@ bst.insert(4)
 bst.insert(6)
 bst.insert(8)
 
-bst.inorder(bst.root)   # prints "2 3 4 5 6 7 8"
-print("\n")
-bst.preorder(bst.root)  # prints "5 3 2 4 7 6 8"
-print("\n")
-bst.postorder(bst.root) # prints "2 4 3 6 8 7 5"
-print("\n")
-bst.print_in_range(bst.root, 3, 7)
-print("\n")
+# bst.inorder(bst.root)   # prints "2 3 4 5 6 7 8"
+# print("\n")
+# bst.preorder(bst.root)  # prints "5 3 2 4 7 6 8"
+# print("\n")
+# bst.postorder(bst.root) # prints "2 4 3 6 8 7 5"
+# print("\n")
+# # bst.print_in_range(bst.root, 3, 7)
+# print("\n")
 bst.find_paths(bst.root, [])

@@ -72,7 +72,16 @@ def label_wise_print(root):
             queue.append(node.right)
 
 
-# tree = BinaryTree()
+def search_node(node, value):
+    if node is None:  # tree is empty or value not found
+        return False
+    if node.val == value:  # value found at current node
+        return True
+    # search left subtree and right subtree recursively
+    return search_node(node.left, value) or search_node(node.right, value)
+
+
+tree = BinaryTree()
 # values =['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
 # tree.build_tree(values)
 #
@@ -81,3 +90,7 @@ def label_wise_print(root):
 # Inorder(tree.root)
 # print("\n")
 # label_wise_print(tree.root)
+if search_node(tree.root, 5):
+    print("Value found in tree")
+else:
+    print("Value not found in tree")

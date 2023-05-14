@@ -36,15 +36,6 @@ def delete_node(root, value):
     return root
 
 
-def search_node(node, value):
-    if node is None:  # tree is empty or value not found
-        return False
-    if node.val == value:  # value found at current node
-        return True
-    # search left subtree and right subtree recursively
-    return search_node(node.left, value) or search_node(node.right, value)
-
-
 tree = BinaryTree()
 values = [1, 2, 3, 4, 5, 6, 7]
 tree.build_tree(values)
@@ -52,8 +43,3 @@ tree.build_tree(values)
 tree.root = delete_node(tree.root, 3)
 
 Inorder(tree.root)
-
-if search_node(tree.root, 5):
-    print("Value found in tree")
-else:
-    print("Value not found in tree")
