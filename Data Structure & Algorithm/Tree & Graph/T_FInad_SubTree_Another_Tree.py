@@ -1,7 +1,7 @@
 from Tree_with_All import BinaryTree
 
 
-def is_subtree(s, t):
+def is_subtree(s, t):  # s= source, t= subTree
     if not s and not t:  # both trees are empty
         return True
     if not s or not t:  # one tree is empty, the other is not

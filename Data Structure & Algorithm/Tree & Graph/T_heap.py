@@ -2,14 +2,15 @@ class MinHeap:
     def __init__(self):
         self.heap = []
 
+# take any node from tree & try to find that's child, or parent
     def parent(self, i):
         return (i - 1) // 2
 
     def left_child(self, i):
-        return 2 * i + 1
+        return 2 * i
 
     def right_child(self, i):
-        return 2 * i + 2
+        return 2 * i + 1
 
     def swap(self, i, j):
         self.heap[i], self.heap[j] = self.heap[j], self.heap[i]
@@ -31,9 +32,9 @@ class MinHeap:
         return min_item
 
     def min_heapify(self, i):
-        left = self.left_child(i)
-        right = self.right_child(i)
-        smallest = i
+        left = self.left_child(i)    # 1
+        right = self.right_child(i)  # 2
+        smallest = i  # 0
         if left < len(self.heap) and self.heap[left] < self.heap[smallest]:
             smallest = left
         if right < len(self.heap) and self.heap[right] < self.heap[smallest]:
@@ -46,6 +47,8 @@ class MinHeap:
         self.heap = arr
         for i in range(len(arr) // 2, -1, -1):
             self.min_heapify(i)
+
+
 # create an empty min-heap
 heap = MinHeap()
 
@@ -56,16 +59,15 @@ heap.insert(1)
 heap.insert(4)
 
 # delete the minimum item
-min_item = heap.delete_min()
-print(min_item)  # should print 1
+# min_item = heap.delete_min()
+# print(min_item)  # should print 1
 
 # build a heap from an array
-arr = [9, 8, 7, 6, 5, 4, 3, 2, 1]
-heap.build_heap(arr)
+arr = [1,2,3,4,5,6,7,8,9]
+# print(heap.build_heap(arr))
 min_item = heap.delete_min()
 print(min_item)  # should print 1 again
 
-
 # heap = MinHeap()
 # heap.heap = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-# heap.min_heapify(0)
+heap.min_heapify(0)

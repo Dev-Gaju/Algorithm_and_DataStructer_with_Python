@@ -1,104 +1,53 @@
-class Tree:
-    def __init__(self, val):
-        self.left = None
-        self.right = None
-        self.val = val
-
-
-class BinarySearchTree:
+class MinHeap:
     def __init__(self):
-        self.root = None
+        self.heap = []
 
-    def InsertVal(self, value):
-        node = Tree(value)
-        if self.root is None:
-            self.root = node
-            return
-        current = self.root
-        while True:
-            if value < current.val:
-                if current.left is None:
-                    current.left = node
-                    return
-                current = current.left
-            else:
-                if current.right is None:
-                    current.right = node
-                    return
-                current = current.right
+    def parent(self, i):
+        return i // 2
 
-    def Invalues(self, values):
-        for val in values:
-            self.InsertVal(val)
+    def left_child(self, i):
+        return 2 * i
 
-    def PostOrder(self, root):
-        if root is None:
-            return
-        self.PostOrder(root.left)
-        self.PostOrder(root.right)
-        print(root.val, end=" ")
+    def right_child(self, i):
+        return 2 * i + 1
 
-    def FindPath(self, root, path):
-        if not root:
-            return
-        path.append(root.val)
-        if root.left is None and root.right is None:
-            print(path)
-        self.FindPath(root.left, path)
-        self.FindPath(root.right, path)
-        path.pop()
+    def swap(self, i,j):
+        self.heap[i], self.heap[j]  =self.heap[j], self.heap[i]
 
-    def RangePrint(self, root, start, end):
-        if not root:
-            return
-        if start < root.val:
-            self.RangePrint(root.left, start, end)
-        if start <= root.val <= end:
-            print(root.val, end=" ")
-        if end > root.val:
-            self.RangePrint(root.right, start, end)
+    def insert_val(self, val):
+        self.heap.append(val)
+        i = len(self.heap)-1
+        while i !=0 and self.heap[i] < self.heap[self.parent(i)]:
+            self.swap(i, self.parent(i))
+            i = self.parent(i)
 
-    def Search_val(self, val):
-        current = self.root
-        while current is not None:
-            if val == current.val:
-                return True
-            elif val < current.data:
-                current = current.left
-            else:
-                current = current.right
-        return False
+    def delete(self):
+        if self.heap ==0:
+            return 0
+        min_heap = self.heap[0]
+        self.heap[0] = self.heap[-1]
+        del self.heap[-1]
+        self.heapify(0)
+        return  min_heap
 
+    def heapify(self, i):
+        left = self.left_child(i)
+        right = self.right_child(i)
+        smallest = i
+        if left < len(self.heap) and self.heap[left] < self.heap[smallest]:
+            smallest =left
+        if right <len(self.heap)  and self.heap[right] <self.heap[smallest]:
+            smallest = right
+        if smallest !=i:
+            self.swap(i, smallest)
+            self.heapify(smallest)
 
-def DeleteNod(root, val):
-    if root is None:
-        return root
-    if val < root.val:
-        root.left = DeleteNod(root.left, val)
-    elif val > root.val:
-        root.right = DeleteNod(root.right, val)
-    else:
-        if root.left is None and root.right is None:
-            return None
-        elif root.left is None:
-            return root.right
-        elif root.right is None:
-            return root.left
-        else:
-            curr = root.right
-            while curr.left is not None:
-                curr = curr.left
-            root.val = curr.val
-            root.right = DeleteNod(root.right, curr.val)
-    return root
+heap = MinHeap()
 
-bst = BinarySearchTree()
-values = 5, 3, 7, 2, 4, 6, 8
-bst.Invalues(values)
-# bst.PostOrder(bst.root)
-# bst.FindPath(bst.root, [])
-# bst.RangePrint(bst.root, 3,7)
-# print(bst.Search_val(5))
-DeleteNod(bst.root, 3)
+# insert some items
+heap.insert_val(3)
+heap.insert_val(2)
+heap.insert_val(5)
+heap.insert_val(4)
 
-bst.PostOrder(bst.root)
+print(heap.delete())
